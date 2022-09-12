@@ -1,0 +1,23 @@
+[2022-09-09 15:32:13,566] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t1 manual__2022-09-09T07:32:07.876325+00:00 [queued]>
+[2022-09-09 15:32:13,575] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t1 manual__2022-09-09T07:32:07.876325+00:00 [queued]>
+[2022-09-09 15:32:13,576] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-09 15:32:13,576] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-09-09 15:32:13,576] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-09 15:32:13,589] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): t1> on 2022-09-09 07:32:07.876325+00:00
+[2022-09-09 15:32:13,591] {standard_task_runner.py:52} INFO - Started process 19786 to run task
+[2022-09-09 15:32:13,597] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example3', 't1', 'manual__2022-09-09T07:32:07.876325+00:00', '--job-id', '56', '--raw', '--subdir', 'DAGS_FOLDER/example3.py', '--cfg-path', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmp9k6exudd', '--error-file', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpw1slj83p']
+[2022-09-09 15:32:13,599] {standard_task_runner.py:80} INFO - Job 56: Subtask t1
+[2022-09-09 15:32:13,663] {task_command.py:371} INFO - Running <TaskInstance: example3.t1 manual__2022-09-09T07:32:07.876325+00:00 [running]> on host Chun-wei-changde-MacBook-Pro.local
+[2022-09-09 15:32:13,726] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example3
+AIRFLOW_CTX_TASK_ID=t1
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-09T07:32:07.876325+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-09T07:32:07.876325+00:00
+[2022-09-09 15:32:13,730] {local_task_job.py:156} INFO - Task exited with return code -11
+[2022-09-09 15:32:13,751] {taskinstance.py:1420} INFO - Marking task as UP_FOR_RETRY. dag_id=example3, task_id=t1, execution_date=20220909T073207, start_date=20220909T073213, end_date=20220909T073213
+[2022-09-09 15:32:13,780] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,33 @@
+[2022-09-12 12:21:49,626] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t2 manual__2022-09-12T04:15:20.960300+00:00 [queued]>
+[2022-09-12 12:21:49,634] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t2 manual__2022-09-12T04:15:20.960300+00:00 [queued]>
+[2022-09-12 12:21:49,634] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-12 12:21:49,634] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-09-12 12:21:49,634] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-12 12:21:49,648] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): t2> on 2022-09-12 04:15:20.960300+00:00
+[2022-09-12 12:21:49,650] {standard_task_runner.py:52} INFO - Started process 33401 to run task
+[2022-09-12 12:21:49,656] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example3', 't2', 'manual__2022-09-12T04:15:20.960300+00:00', '--job-id', '100', '--raw', '--subdir', 'DAGS_FOLDER/example3.py', '--cfg-path', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmp8zqb1xi7', '--error-file', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpd5h4lpc1']
+[2022-09-12 12:21:49,657] {standard_task_runner.py:80} INFO - Job 100: Subtask t2
+[2022-09-12 12:21:49,709] {task_command.py:371} INFO - Running <TaskInstance: example3.t2 manual__2022-09-12T04:15:20.960300+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2022-09-12 12:21:49,768] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example3
+AIRFLOW_CTX_TASK_ID=t2
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-12T04:15:20.960300+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-12T04:15:20.960300+00:00
+[2022-09-12 12:21:49,776] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/opt/anaconda3/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/chunweichang/airflow/tasks/test.py", line 16, in transform
+    data.append({"name": doc['StationName.zh_TW'], "Storage": doc['EffectiveStorage']})
+KeyError: 'StationName.zh_TW'
+[2022-09-12 12:21:49,782] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=example3, task_id=t2, execution_date=20220912T041520, start_date=20220912T042149, end_date=20220912T042149
+[2022-09-12 12:21:49,794] {standard_task_runner.py:97} ERROR - Failed to execute job 100 for task t2 ('StationName.zh_TW'; 33401)
+[2022-09-12 12:21:49,842] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-09-12 12:21:49,882] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

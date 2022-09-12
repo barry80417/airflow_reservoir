@@ -1,0 +1,1197 @@
+[2022-09-12 09:02:06,395] {processor.py:153} INFO - Started process (PID=31076) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:02:06,396] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:02:06,397] {logging_mixin.py:115} INFO - [2022-09-12 09:02:06,397] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:02:06,476] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:02:06,499] {logging_mixin.py:115} INFO - [2022-09-12 09:02:06,499] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:02:06,526] {logging_mixin.py:115} INFO - [2022-09-12 09:02:06,525] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:02:06,542] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.153 seconds
+[2022-09-12 09:02:39,256] {processor.py:153} INFO - Started process (PID=31088) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:02:39,257] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:02:39,257] {logging_mixin.py:115} INFO - [2022-09-12 09:02:39,257] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:02:39,308] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:02:39,323] {logging_mixin.py:115} INFO - [2022-09-12 09:02:39,323] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:02:39,339] {logging_mixin.py:115} INFO - [2022-09-12 09:02:39,339] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:02:39,352] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 09:24:02,911] {processor.py:153} INFO - Started process (PID=31109) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:24:02,912] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:24:02,914] {logging_mixin.py:115} INFO - [2022-09-12 09:24:02,913] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:24:02,991] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:24:03,014] {logging_mixin.py:115} INFO - [2022-09-12 09:24:03,014] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:24:03,038] {logging_mixin.py:115} INFO - [2022-09-12 09:24:03,038] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:24:03,054] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.148 seconds
+[2022-09-12 09:24:34,177] {processor.py:153} INFO - Started process (PID=31121) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:24:34,178] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:24:34,179] {logging_mixin.py:115} INFO - [2022-09-12 09:24:34,179] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:24:34,230] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:24:34,244] {logging_mixin.py:115} INFO - [2022-09-12 09:24:34,244] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:24:34,260] {logging_mixin.py:115} INFO - [2022-09-12 09:24:34,259] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:24:34,272] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.099 seconds
+[2022-09-12 09:41:53,572] {processor.py:153} INFO - Started process (PID=31149) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:41:53,573] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:41:53,574] {logging_mixin.py:115} INFO - [2022-09-12 09:41:53,574] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:41:53,646] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:41:53,667] {logging_mixin.py:115} INFO - [2022-09-12 09:41:53,666] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:41:53,691] {logging_mixin.py:115} INFO - [2022-09-12 09:41:53,690] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:41:53,706] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.139 seconds
+[2022-09-12 09:51:34,979] {processor.py:153} INFO - Started process (PID=31174) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:51:34,980] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:51:34,982] {logging_mixin.py:115} INFO - [2022-09-12 09:51:34,981] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:51:35,054] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:51:35,075] {logging_mixin.py:115} INFO - [2022-09-12 09:51:35,075] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:51:35,099] {logging_mixin.py:115} INFO - [2022-09-12 09:51:35,099] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:51:35,114] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.140 seconds
+[2022-09-12 09:52:06,217] {processor.py:153} INFO - Started process (PID=31185) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:52:06,218] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:52:06,220] {logging_mixin.py:115} INFO - [2022-09-12 09:52:06,219] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:52:06,274] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:52:06,289] {logging_mixin.py:115} INFO - [2022-09-12 09:52:06,289] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:52:06,305] {logging_mixin.py:115} INFO - [2022-09-12 09:52:06,305] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:52:06,318] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.105 seconds
+[2022-09-12 09:52:38,935] {processor.py:153} INFO - Started process (PID=31199) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:52:38,935] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:52:38,936] {logging_mixin.py:115} INFO - [2022-09-12 09:52:38,936] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:52:38,985] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:52:39,000] {logging_mixin.py:115} INFO - [2022-09-12 09:52:38,999] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:52:39,015] {logging_mixin.py:115} INFO - [2022-09-12 09:52:39,015] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:52:39,029] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.098 seconds
+[2022-09-12 09:53:17,380] {processor.py:153} INFO - Started process (PID=31213) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:53:17,381] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:53:17,382] {logging_mixin.py:115} INFO - [2022-09-12 09:53:17,382] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:53:17,451] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:53:17,465] {logging_mixin.py:115} INFO - [2022-09-12 09:53:17,465] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:53:17,481] {logging_mixin.py:115} INFO - [2022-09-12 09:53:17,481] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:53:17,493] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.118 seconds
+[2022-09-12 09:53:49,388] {processor.py:153} INFO - Started process (PID=31221) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:53:49,389] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:53:49,390] {logging_mixin.py:115} INFO - [2022-09-12 09:53:49,390] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:53:49,440] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:53:49,455] {logging_mixin.py:115} INFO - [2022-09-12 09:53:49,455] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:53:49,470] {logging_mixin.py:115} INFO - [2022-09-12 09:53:49,470] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:53:49,484] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 09:56:15,828] {processor.py:153} INFO - Started process (PID=31241) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:56:15,829] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 09:56:15,830] {logging_mixin.py:115} INFO - [2022-09-12 09:56:15,830] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:56:15,917] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 09:56:15,940] {logging_mixin.py:115} INFO - [2022-09-12 09:56:15,940] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 09:56:15,967] {logging_mixin.py:115} INFO - [2022-09-12 09:56:15,967] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 09:56:16,029] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.206 seconds
+[2022-09-12 10:01:49,913] {processor.py:153} INFO - Started process (PID=31261) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:01:49,914] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:01:49,915] {logging_mixin.py:115} INFO - [2022-09-12 10:01:49,915] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:01:50,001] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:01:50,053] {logging_mixin.py:115} INFO - [2022-09-12 10:01:50,052] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:01:50,081] {logging_mixin.py:115} INFO - [2022-09-12 10:01:50,081] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:01:50,119] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.212 seconds
+[2022-09-12 10:02:21,939] {processor.py:153} INFO - Started process (PID=31269) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:02:21,940] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:02:21,940] {logging_mixin.py:115} INFO - [2022-09-12 10:02:21,940] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:02:21,993] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:02:22,009] {logging_mixin.py:115} INFO - [2022-09-12 10:02:22,009] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:02:22,026] {logging_mixin.py:115} INFO - [2022-09-12 10:02:22,026] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:02:22,041] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 10:37:09,470] {processor.py:153} INFO - Started process (PID=31294) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:37:09,472] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:37:09,473] {logging_mixin.py:115} INFO - [2022-09-12 10:37:09,473] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:37:09,578] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:37:09,613] {logging_mixin.py:115} INFO - [2022-09-12 10:37:09,613] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:37:09,664] {logging_mixin.py:115} INFO - [2022-09-12 10:37:09,663] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:37:09,730] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.265 seconds
+[2022-09-12 10:37:41,421] {processor.py:153} INFO - Started process (PID=31322) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:37:41,422] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:37:41,423] {logging_mixin.py:115} INFO - [2022-09-12 10:37:41,423] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:37:41,488] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:37:41,504] {logging_mixin.py:115} INFO - [2022-09-12 10:37:41,504] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:37:41,522] {logging_mixin.py:115} INFO - [2022-09-12 10:37:41,522] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:37:41,538] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.121 seconds
+[2022-09-12 10:38:14,250] {processor.py:153} INFO - Started process (PID=31328) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:38:14,253] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:38:14,254] {logging_mixin.py:115} INFO - [2022-09-12 10:38:14,254] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:38:14,315] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:38:14,333] {logging_mixin.py:115} INFO - [2022-09-12 10:38:14,333] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:38:14,349] {logging_mixin.py:115} INFO - [2022-09-12 10:38:14,349] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:38:14,361] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.115 seconds
+[2022-09-12 10:38:46,076] {processor.py:153} INFO - Started process (PID=31331) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:38:46,077] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:38:46,078] {logging_mixin.py:115} INFO - [2022-09-12 10:38:46,078] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:38:46,135] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:38:46,149] {logging_mixin.py:115} INFO - [2022-09-12 10:38:46,149] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:38:46,165] {logging_mixin.py:115} INFO - [2022-09-12 10:38:46,164] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:38:46,177] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 10:39:17,894] {processor.py:153} INFO - Started process (PID=31334) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:39:17,895] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:39:17,896] {logging_mixin.py:115} INFO - [2022-09-12 10:39:17,896] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:39:17,949] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:39:17,965] {logging_mixin.py:115} INFO - [2022-09-12 10:39:17,965] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:39:17,981] {logging_mixin.py:115} INFO - [2022-09-12 10:39:17,980] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:39:17,994] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.103 seconds
+[2022-09-12 10:42:07,549] {processor.py:153} INFO - Started process (PID=31363) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:42:07,550] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:42:07,552] {logging_mixin.py:115} INFO - [2022-09-12 10:42:07,551] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:42:07,622] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:42:07,643] {logging_mixin.py:115} INFO - [2022-09-12 10:42:07,643] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:42:07,667] {logging_mixin.py:115} INFO - [2022-09-12 10:42:07,667] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:42:07,683] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.141 seconds
+[2022-09-12 10:42:39,343] {processor.py:153} INFO - Started process (PID=31369) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:42:39,344] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:42:39,345] {logging_mixin.py:115} INFO - [2022-09-12 10:42:39,345] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:42:39,398] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:42:39,413] {logging_mixin.py:115} INFO - [2022-09-12 10:42:39,413] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:42:39,429] {logging_mixin.py:115} INFO - [2022-09-12 10:42:39,429] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:42:39,444] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 10:43:11,163] {processor.py:153} INFO - Started process (PID=31372) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:43:11,164] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:43:11,166] {logging_mixin.py:115} INFO - [2022-09-12 10:43:11,166] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:43:11,221] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:43:11,236] {logging_mixin.py:115} INFO - [2022-09-12 10:43:11,235] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:43:11,251] {logging_mixin.py:115} INFO - [2022-09-12 10:43:11,251] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:43:11,268] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.113 seconds
+[2022-09-12 10:43:42,984] {processor.py:153} INFO - Started process (PID=31377) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:43:42,985] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:43:42,986] {logging_mixin.py:115} INFO - [2022-09-12 10:43:42,986] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:43:43,038] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:43:43,053] {logging_mixin.py:115} INFO - [2022-09-12 10:43:43,052] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:43:43,068] {logging_mixin.py:115} INFO - [2022-09-12 10:43:43,068] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:43:43,085] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.109 seconds
+[2022-09-12 10:44:14,794] {processor.py:153} INFO - Started process (PID=31380) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:44:14,796] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:44:14,798] {logging_mixin.py:115} INFO - [2022-09-12 10:44:14,797] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:44:14,852] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:44:14,866] {logging_mixin.py:115} INFO - [2022-09-12 10:44:14,866] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:44:14,883] {logging_mixin.py:115} INFO - [2022-09-12 10:44:14,882] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:44:14,895] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.107 seconds
+[2022-09-12 10:44:47,538] {processor.py:153} INFO - Started process (PID=31383) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:44:47,539] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:44:47,539] {logging_mixin.py:115} INFO - [2022-09-12 10:44:47,539] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:44:47,586] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:44:47,601] {logging_mixin.py:115} INFO - [2022-09-12 10:44:47,601] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:44:47,617] {logging_mixin.py:115} INFO - [2022-09-12 10:44:47,617] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:44:47,633] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 10:45:45,410] {processor.py:153} INFO - Started process (PID=31413) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:45:45,432] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:45:45,434] {logging_mixin.py:115} INFO - [2022-09-12 10:45:45,433] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:45:45,541] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:45:45,570] {logging_mixin.py:115} INFO - [2022-09-12 10:45:45,569] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:45:45,596] {logging_mixin.py:115} INFO - [2022-09-12 10:45:45,596] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:45:45,612] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.209 seconds
+[2022-09-12 10:46:17,222] {processor.py:153} INFO - Started process (PID=31419) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:46:17,223] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:46:17,224] {logging_mixin.py:115} INFO - [2022-09-12 10:46:17,224] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:46:17,283] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:46:17,298] {logging_mixin.py:115} INFO - [2022-09-12 10:46:17,297] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:46:17,313] {logging_mixin.py:115} INFO - [2022-09-12 10:46:17,313] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:46:17,326] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 10:46:49,042] {processor.py:153} INFO - Started process (PID=31422) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:46:49,044] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:46:49,046] {logging_mixin.py:115} INFO - [2022-09-12 10:46:49,045] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:46:49,098] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:46:49,113] {logging_mixin.py:115} INFO - [2022-09-12 10:46:49,112] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:46:49,128] {logging_mixin.py:115} INFO - [2022-09-12 10:46:49,128] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:46:49,144] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 10:47:20,854] {processor.py:153} INFO - Started process (PID=31427) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:47:20,855] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:47:20,857] {logging_mixin.py:115} INFO - [2022-09-12 10:47:20,857] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:47:20,915] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:47:20,930] {logging_mixin.py:115} INFO - [2022-09-12 10:47:20,930] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:47:20,946] {logging_mixin.py:115} INFO - [2022-09-12 10:47:20,946] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:47:20,959] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 10:47:52,681] {processor.py:153} INFO - Started process (PID=31430) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:47:52,682] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:47:52,683] {logging_mixin.py:115} INFO - [2022-09-12 10:47:52,683] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:47:52,737] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:47:52,752] {logging_mixin.py:115} INFO - [2022-09-12 10:47:52,752] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:47:52,768] {logging_mixin.py:115} INFO - [2022-09-12 10:47:52,768] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:47:52,785] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 10:48:24,492] {processor.py:153} INFO - Started process (PID=31433) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:48:24,493] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:48:24,494] {logging_mixin.py:115} INFO - [2022-09-12 10:48:24,493] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:48:24,556] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:48:24,571] {logging_mixin.py:115} INFO - [2022-09-12 10:48:24,571] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:48:24,589] {logging_mixin.py:115} INFO - [2022-09-12 10:48:24,589] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:48:24,603] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.115 seconds
+[2022-09-12 10:48:56,326] {processor.py:153} INFO - Started process (PID=31436) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:48:56,328] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:48:56,330] {logging_mixin.py:115} INFO - [2022-09-12 10:48:56,329] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:48:56,384] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:48:56,399] {logging_mixin.py:115} INFO - [2022-09-12 10:48:56,399] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:48:56,415] {logging_mixin.py:115} INFO - [2022-09-12 10:48:56,414] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:48:56,433] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.112 seconds
+[2022-09-12 10:49:30,575] {processor.py:153} INFO - Started process (PID=31445) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:49:30,576] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:49:30,577] {logging_mixin.py:115} INFO - [2022-09-12 10:49:30,577] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:49:30,648] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:49:30,678] {logging_mixin.py:115} INFO - [2022-09-12 10:49:30,678] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:49:30,700] {logging_mixin.py:115} INFO - [2022-09-12 10:49:30,699] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:49:30,713] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.143 seconds
+[2022-09-12 10:50:04,300] {processor.py:153} INFO - Started process (PID=31466) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:50:04,301] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:50:04,302] {logging_mixin.py:115} INFO - [2022-09-12 10:50:04,302] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:50:04,374] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:50:04,395] {logging_mixin.py:115} INFO - [2022-09-12 10:50:04,395] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:50:04,414] {logging_mixin.py:115} INFO - [2022-09-12 10:50:04,413] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:50:04,429] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.132 seconds
+[2022-09-12 10:50:37,437] {processor.py:153} INFO - Started process (PID=31486) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:50:37,438] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:50:37,439] {logging_mixin.py:115} INFO - [2022-09-12 10:50:37,439] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:50:37,495] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:50:37,511] {logging_mixin.py:115} INFO - [2022-09-12 10:50:37,510] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:50:37,528] {logging_mixin.py:115} INFO - [2022-09-12 10:50:37,528] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:50:37,543] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 10:51:13,913] {processor.py:153} INFO - Started process (PID=31501) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:51:13,914] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:51:13,915] {logging_mixin.py:115} INFO - [2022-09-12 10:51:13,915] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:51:13,964] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:51:13,980] {logging_mixin.py:115} INFO - [2022-09-12 10:51:13,979] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:51:13,999] {logging_mixin.py:115} INFO - [2022-09-12 10:51:13,998] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:51:14,012] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.103 seconds
+[2022-09-12 10:51:47,051] {processor.py:153} INFO - Started process (PID=31520) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:51:47,052] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:51:47,053] {logging_mixin.py:115} INFO - [2022-09-12 10:51:47,052] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:51:47,106] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:51:47,121] {logging_mixin.py:115} INFO - [2022-09-12 10:51:47,121] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:51:47,137] {logging_mixin.py:115} INFO - [2022-09-12 10:51:47,137] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:51:47,150] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.103 seconds
+[2022-09-12 10:52:20,343] {processor.py:153} INFO - Started process (PID=31535) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:52:20,344] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:52:20,345] {logging_mixin.py:115} INFO - [2022-09-12 10:52:20,345] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:52:20,398] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:52:20,414] {logging_mixin.py:115} INFO - [2022-09-12 10:52:20,414] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:52:20,431] {logging_mixin.py:115} INFO - [2022-09-12 10:52:20,431] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:52:20,445] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 10:52:53,543] {processor.py:153} INFO - Started process (PID=31550) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:52:53,543] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:52:53,544] {logging_mixin.py:115} INFO - [2022-09-12 10:52:53,544] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:52:53,602] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:52:53,618] {logging_mixin.py:115} INFO - [2022-09-12 10:52:53,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:52:53,634] {logging_mixin.py:115} INFO - [2022-09-12 10:52:53,634] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:52:53,652] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.113 seconds
+[2022-09-12 10:53:30,588] {processor.py:153} INFO - Started process (PID=31568) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:53:30,589] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:53:30,589] {logging_mixin.py:115} INFO - [2022-09-12 10:53:30,589] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:53:30,639] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:53:30,655] {logging_mixin.py:115} INFO - [2022-09-12 10:53:30,654] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:53:30,671] {logging_mixin.py:115} INFO - [2022-09-12 10:53:30,670] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:53:30,683] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 10:54:06,072] {processor.py:153} INFO - Started process (PID=31582) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:54:06,073] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:54:06,074] {logging_mixin.py:115} INFO - [2022-09-12 10:54:06,074] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:54:06,125] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:54:06,140] {logging_mixin.py:115} INFO - [2022-09-12 10:54:06,140] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:54:06,155] {logging_mixin.py:115} INFO - [2022-09-12 10:54:06,155] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:54:06,168] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 10:54:40,123] {processor.py:153} INFO - Started process (PID=31598) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:54:40,124] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:54:40,124] {logging_mixin.py:115} INFO - [2022-09-12 10:54:40,124] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:54:40,184] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:54:40,199] {logging_mixin.py:115} INFO - [2022-09-12 10:54:40,199] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:54:40,214] {logging_mixin.py:115} INFO - [2022-09-12 10:54:40,214] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:54:40,229] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.111 seconds
+[2022-09-12 10:55:15,274] {processor.py:153} INFO - Started process (PID=31612) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:55:15,275] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:55:15,276] {logging_mixin.py:115} INFO - [2022-09-12 10:55:15,276] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:55:15,350] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:55:15,369] {logging_mixin.py:115} INFO - [2022-09-12 10:55:15,369] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:55:15,386] {logging_mixin.py:115} INFO - [2022-09-12 10:55:15,385] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:55:15,398] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.130 seconds
+[2022-09-12 10:55:49,868] {processor.py:153} INFO - Started process (PID=31629) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:55:49,868] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:55:49,869] {logging_mixin.py:115} INFO - [2022-09-12 10:55:49,869] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:55:49,928] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:55:49,944] {logging_mixin.py:115} INFO - [2022-09-12 10:55:49,943] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:55:49,960] {logging_mixin.py:115} INFO - [2022-09-12 10:55:49,960] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:55:49,974] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 10:56:24,282] {processor.py:153} INFO - Started process (PID=31645) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:56:24,283] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:56:24,284] {logging_mixin.py:115} INFO - [2022-09-12 10:56:24,284] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:56:24,334] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:56:24,349] {logging_mixin.py:115} INFO - [2022-09-12 10:56:24,349] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:56:24,365] {logging_mixin.py:115} INFO - [2022-09-12 10:56:24,365] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:56:24,382] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.103 seconds
+[2022-09-12 10:56:58,682] {processor.py:153} INFO - Started process (PID=31659) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:56:58,682] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:56:58,683] {logging_mixin.py:115} INFO - [2022-09-12 10:56:58,683] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:56:58,733] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:56:58,748] {logging_mixin.py:115} INFO - [2022-09-12 10:56:58,748] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:56:58,764] {logging_mixin.py:115} INFO - [2022-09-12 10:56:58,764] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:56:58,777] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.099 seconds
+[2022-09-12 10:57:33,287] {processor.py:153} INFO - Started process (PID=31673) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:57:33,288] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:57:33,289] {logging_mixin.py:115} INFO - [2022-09-12 10:57:33,289] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:57:33,340] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:57:33,354] {logging_mixin.py:115} INFO - [2022-09-12 10:57:33,354] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:57:33,373] {logging_mixin.py:115} INFO - [2022-09-12 10:57:33,372] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:57:33,386] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.103 seconds
+[2022-09-12 10:58:07,984] {processor.py:153} INFO - Started process (PID=31688) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:58:07,985] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:58:07,986] {logging_mixin.py:115} INFO - [2022-09-12 10:58:07,986] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:58:08,052] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:58:08,068] {logging_mixin.py:115} INFO - [2022-09-12 10:58:08,068] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:58:08,084] {logging_mixin.py:115} INFO - [2022-09-12 10:58:08,083] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:58:08,100] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.122 seconds
+[2022-09-12 10:58:45,349] {processor.py:153} INFO - Started process (PID=31729) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:58:45,352] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:58:45,353] {logging_mixin.py:115} INFO - [2022-09-12 10:58:45,353] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:58:45,420] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:58:45,439] {logging_mixin.py:115} INFO - [2022-09-12 10:58:45,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:58:45,458] {logging_mixin.py:115} INFO - [2022-09-12 10:58:45,458] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:58:45,476] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.133 seconds
+[2022-09-12 10:59:20,322] {processor.py:153} INFO - Started process (PID=31743) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:59:20,323] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:59:20,324] {logging_mixin.py:115} INFO - [2022-09-12 10:59:20,323] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:59:20,377] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:59:20,392] {logging_mixin.py:115} INFO - [2022-09-12 10:59:20,392] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:59:20,410] {logging_mixin.py:115} INFO - [2022-09-12 10:59:20,410] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:59:20,422] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.104 seconds
+[2022-09-12 10:59:54,740] {processor.py:153} INFO - Started process (PID=31757) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:59:54,741] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 10:59:54,742] {logging_mixin.py:115} INFO - [2022-09-12 10:59:54,742] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:59:54,804] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 10:59:54,822] {logging_mixin.py:115} INFO - [2022-09-12 10:59:54,822] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 10:59:54,839] {logging_mixin.py:115} INFO - [2022-09-12 10:59:54,839] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 10:59:54,855] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.120 seconds
+[2022-09-12 11:00:29,369] {processor.py:153} INFO - Started process (PID=31773) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:00:29,370] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:00:29,371] {logging_mixin.py:115} INFO - [2022-09-12 11:00:29,371] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:00:29,433] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:00:29,450] {logging_mixin.py:115} INFO - [2022-09-12 11:00:29,449] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:00:29,467] {logging_mixin.py:115} INFO - [2022-09-12 11:00:29,467] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:00:29,481] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.116 seconds
+[2022-09-12 11:01:01,566] {processor.py:153} INFO - Started process (PID=31806) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:01:01,566] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:01:01,567] {logging_mixin.py:115} INFO - [2022-09-12 11:01:01,567] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:01:01,621] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:01:01,650] {logging_mixin.py:115} INFO - [2022-09-12 11:01:01,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:01:01,676] {logging_mixin.py:115} INFO - [2022-09-12 11:01:01,675] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:01:01,691] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.129 seconds
+[2022-09-12 11:01:33,020] {processor.py:153} INFO - Started process (PID=31840) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:01:33,021] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:01:33,022] {logging_mixin.py:115} INFO - [2022-09-12 11:01:33,022] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:01:33,081] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:01:33,097] {logging_mixin.py:115} INFO - [2022-09-12 11:01:33,097] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:01:33,114] {logging_mixin.py:115} INFO - [2022-09-12 11:01:33,113] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:01:33,130] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.115 seconds
+[2022-09-12 11:02:04,568] {processor.py:153} INFO - Started process (PID=31874) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:02:04,568] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:02:04,570] {logging_mixin.py:115} INFO - [2022-09-12 11:02:04,569] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:02:04,623] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:02:04,638] {logging_mixin.py:115} INFO - [2022-09-12 11:02:04,638] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:02:04,654] {logging_mixin.py:115} INFO - [2022-09-12 11:02:04,654] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:02:04,667] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.104 seconds
+[2022-09-12 11:02:35,598] {processor.py:153} INFO - Started process (PID=31907) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:02:35,599] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:02:35,600] {logging_mixin.py:115} INFO - [2022-09-12 11:02:35,600] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:02:35,651] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:02:35,666] {logging_mixin.py:115} INFO - [2022-09-12 11:02:35,666] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:02:35,682] {logging_mixin.py:115} INFO - [2022-09-12 11:02:35,681] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:02:35,695] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 11:03:07,436] {processor.py:153} INFO - Started process (PID=31941) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:03:07,437] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:03:07,438] {logging_mixin.py:115} INFO - [2022-09-12 11:03:07,438] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:03:07,492] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:03:07,507] {logging_mixin.py:115} INFO - [2022-09-12 11:03:07,507] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:03:07,523] {logging_mixin.py:115} INFO - [2022-09-12 11:03:07,522] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:03:07,537] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.105 seconds
+[2022-09-12 11:03:37,983] {processor.py:153} INFO - Started process (PID=31972) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:03:37,984] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:03:37,985] {logging_mixin.py:115} INFO - [2022-09-12 11:03:37,985] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:03:38,035] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:03:38,050] {logging_mixin.py:115} INFO - [2022-09-12 11:03:38,049] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:03:38,066] {logging_mixin.py:115} INFO - [2022-09-12 11:03:38,065] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:03:38,079] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.099 seconds
+[2022-09-12 11:04:09,663] {processor.py:153} INFO - Started process (PID=32004) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:04:09,663] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:04:09,664] {logging_mixin.py:115} INFO - [2022-09-12 11:04:09,664] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:04:09,715] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:04:09,730] {logging_mixin.py:115} INFO - [2022-09-12 11:04:09,730] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:04:09,746] {logging_mixin.py:115} INFO - [2022-09-12 11:04:09,745] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:04:09,758] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 11:04:40,687] {processor.py:153} INFO - Started process (PID=32035) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:04:40,688] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:04:40,689] {logging_mixin.py:115} INFO - [2022-09-12 11:04:40,688] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:04:40,739] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:04:40,754] {logging_mixin.py:115} INFO - [2022-09-12 11:04:40,754] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:04:40,770] {logging_mixin.py:115} INFO - [2022-09-12 11:04:40,770] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:04:40,783] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 11:05:12,704] {processor.py:153} INFO - Started process (PID=32069) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:05:12,705] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:05:12,711] {logging_mixin.py:115} INFO - [2022-09-12 11:05:12,711] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:05:12,766] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:05:12,781] {logging_mixin.py:115} INFO - [2022-09-12 11:05:12,781] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:05:12,800] {logging_mixin.py:115} INFO - [2022-09-12 11:05:12,800] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:05:12,814] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.115 seconds
+[2022-09-12 11:05:44,756] {processor.py:153} INFO - Started process (PID=32102) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:05:44,757] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:05:44,758] {logging_mixin.py:115} INFO - [2022-09-12 11:05:44,758] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:05:44,808] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:05:44,824] {logging_mixin.py:115} INFO - [2022-09-12 11:05:44,824] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:05:44,840] {logging_mixin.py:115} INFO - [2022-09-12 11:05:44,840] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:05:44,853] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 11:06:16,841] {processor.py:153} INFO - Started process (PID=32137) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:06:16,842] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:06:16,843] {logging_mixin.py:115} INFO - [2022-09-12 11:06:16,843] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:06:16,938] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:06:16,962] {logging_mixin.py:115} INFO - [2022-09-12 11:06:16,962] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:06:16,984] {logging_mixin.py:115} INFO - [2022-09-12 11:06:16,984] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:06:16,996] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.159 seconds
+[2022-09-12 11:06:48,879] {processor.py:153} INFO - Started process (PID=32172) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:06:48,880] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:06:48,881] {logging_mixin.py:115} INFO - [2022-09-12 11:06:48,881] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:06:48,931] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:06:48,946] {logging_mixin.py:115} INFO - [2022-09-12 11:06:48,946] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:06:48,962] {logging_mixin.py:115} INFO - [2022-09-12 11:06:48,962] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:06:48,975] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 11:07:20,289] {processor.py:153} INFO - Started process (PID=32206) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:07:20,290] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:07:20,291] {logging_mixin.py:115} INFO - [2022-09-12 11:07:20,291] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:07:20,341] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:07:20,356] {logging_mixin.py:115} INFO - [2022-09-12 11:07:20,356] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:07:20,371] {logging_mixin.py:115} INFO - [2022-09-12 11:07:20,371] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:07:20,385] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 11:14:46,009] {processor.py:153} INFO - Started process (PID=32215) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:14:46,010] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:14:46,011] {logging_mixin.py:115} INFO - [2022-09-12 11:14:46,011] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:14:46,102] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:14:46,163] {logging_mixin.py:115} INFO - [2022-09-12 11:14:46,163] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:14:46,194] {logging_mixin.py:115} INFO - [2022-09-12 11:14:46,193] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:14:46,234] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.231 seconds
+[2022-09-12 11:15:17,222] {processor.py:153} INFO - Started process (PID=32285) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:15:17,223] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:15:17,224] {logging_mixin.py:115} INFO - [2022-09-12 11:15:17,223] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:15:17,278] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:15:17,293] {logging_mixin.py:115} INFO - [2022-09-12 11:15:17,293] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:15:17,310] {logging_mixin.py:115} INFO - [2022-09-12 11:15:17,309] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:15:17,323] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.105 seconds
+[2022-09-12 11:15:48,259] {processor.py:153} INFO - Started process (PID=32316) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:15:48,259] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 11:15:48,260] {logging_mixin.py:115} INFO - [2022-09-12 11:15:48,260] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:15:48,311] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 11:15:48,326] {logging_mixin.py:115} INFO - [2022-09-12 11:15:48,326] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 11:15:48,342] {logging_mixin.py:115} INFO - [2022-09-12 11:15:48,342] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 11:15:48,355] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 12:06:19,936] {processor.py:153} INFO - Started process (PID=32352) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:06:19,937] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:06:19,938] {logging_mixin.py:115} INFO - [2022-09-12 12:06:19,938] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:06:20,024] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:06:20,046] {logging_mixin.py:115} INFO - [2022-09-12 12:06:20,045] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:06:20,083] {logging_mixin.py:115} INFO - [2022-09-12 12:06:20,082] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:06:20,119] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.190 seconds
+[2022-09-12 12:06:51,572] {processor.py:153} INFO - Started process (PID=32436) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:06:51,576] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:06:51,578] {logging_mixin.py:115} INFO - [2022-09-12 12:06:51,578] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:06:51,635] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:06:51,650] {logging_mixin.py:115} INFO - [2022-09-12 12:06:51,650] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:06:51,666] {logging_mixin.py:115} INFO - [2022-09-12 12:06:51,666] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:06:51,680] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.112 seconds
+[2022-09-12 12:07:22,506] {processor.py:153} INFO - Started process (PID=32469) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:07:22,506] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:07:22,507] {logging_mixin.py:115} INFO - [2022-09-12 12:07:22,507] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:07:22,557] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:07:22,572] {logging_mixin.py:115} INFO - [2022-09-12 12:07:22,572] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:07:22,588] {logging_mixin.py:115} INFO - [2022-09-12 12:07:22,588] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:07:22,602] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 12:07:53,490] {processor.py:153} INFO - Started process (PID=32503) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:07:53,490] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:07:53,491] {logging_mixin.py:115} INFO - [2022-09-12 12:07:53,491] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:07:53,547] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:07:53,564] {logging_mixin.py:115} INFO - [2022-09-12 12:07:53,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:07:53,582] {logging_mixin.py:115} INFO - [2022-09-12 12:07:53,581] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:07:53,595] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 12:08:24,435] {processor.py:153} INFO - Started process (PID=32534) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:08:24,435] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:08:24,436] {logging_mixin.py:115} INFO - [2022-09-12 12:08:24,436] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:08:24,486] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:08:24,501] {logging_mixin.py:115} INFO - [2022-09-12 12:08:24,501] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:08:24,516] {logging_mixin.py:115} INFO - [2022-09-12 12:08:24,516] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:08:24,533] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.102 seconds
+[2022-09-12 12:08:55,459] {processor.py:153} INFO - Started process (PID=32566) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:08:55,459] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:08:55,461] {logging_mixin.py:115} INFO - [2022-09-12 12:08:55,460] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:08:55,513] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:08:55,529] {logging_mixin.py:115} INFO - [2022-09-12 12:08:55,528] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:08:55,545] {logging_mixin.py:115} INFO - [2022-09-12 12:08:55,545] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:08:55,558] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.104 seconds
+[2022-09-12 12:09:26,348] {processor.py:153} INFO - Started process (PID=32599) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:09:26,348] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:09:26,349] {logging_mixin.py:115} INFO - [2022-09-12 12:09:26,349] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:09:26,402] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:09:26,417] {logging_mixin.py:115} INFO - [2022-09-12 12:09:26,417] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:09:26,433] {logging_mixin.py:115} INFO - [2022-09-12 12:09:26,433] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:09:26,448] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.104 seconds
+[2022-09-12 12:09:56,924] {processor.py:153} INFO - Started process (PID=32630) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:09:56,925] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:09:56,926] {logging_mixin.py:115} INFO - [2022-09-12 12:09:56,926] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:09:56,976] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:09:56,991] {logging_mixin.py:115} INFO - [2022-09-12 12:09:56,991] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:09:57,007] {logging_mixin.py:115} INFO - [2022-09-12 12:09:57,006] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:09:57,023] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.103 seconds
+[2022-09-12 12:10:28,141] {processor.py:153} INFO - Started process (PID=32668) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:10:28,143] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:10:28,144] {logging_mixin.py:115} INFO - [2022-09-12 12:10:28,144] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:10:28,205] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:10:28,225] {logging_mixin.py:115} INFO - [2022-09-12 12:10:28,224] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:10:28,244] {logging_mixin.py:115} INFO - [2022-09-12 12:10:28,244] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:10:28,258] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.123 seconds
+[2022-09-12 12:10:59,296] {processor.py:153} INFO - Started process (PID=32706) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:10:59,296] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:10:59,297] {logging_mixin.py:115} INFO - [2022-09-12 12:10:59,297] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:10:59,347] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:10:59,362] {logging_mixin.py:115} INFO - [2022-09-12 12:10:59,362] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:10:59,378] {logging_mixin.py:115} INFO - [2022-09-12 12:10:59,378] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:10:59,394] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.103 seconds
+[2022-09-12 12:11:31,392] {processor.py:153} INFO - Started process (PID=32738) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:11:31,393] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:11:31,394] {logging_mixin.py:115} INFO - [2022-09-12 12:11:31,394] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:11:31,444] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:11:31,459] {logging_mixin.py:115} INFO - [2022-09-12 12:11:31,459] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:11:31,475] {logging_mixin.py:115} INFO - [2022-09-12 12:11:31,475] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:11:31,488] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.100 seconds
+[2022-09-12 12:12:03,126] {processor.py:153} INFO - Started process (PID=32772) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:03,127] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:12:03,127] {logging_mixin.py:115} INFO - [2022-09-12 12:12:03,127] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:03,178] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:03,193] {logging_mixin.py:115} INFO - [2022-09-12 12:12:03,192] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:12:03,208] {logging_mixin.py:115} INFO - [2022-09-12 12:12:03,208] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:12:03,222] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 12:12:22,508] {processor.py:153} INFO - Started process (PID=32794) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:22,509] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:12:22,510] {logging_mixin.py:115} INFO - [2022-09-12 12:12:22,509] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:22,564] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:22,583] {logging_mixin.py:115} INFO - [2022-09-12 12:12:22,582] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:12:22,603] {logging_mixin.py:115} INFO - [2022-09-12 12:12:22,603] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:12:22,615] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.111 seconds
+[2022-09-12 12:12:54,482] {processor.py:153} INFO - Started process (PID=32834) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:54,483] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:12:54,484] {logging_mixin.py:115} INFO - [2022-09-12 12:12:54,483] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:54,545] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:12:54,562] {logging_mixin.py:115} INFO - [2022-09-12 12:12:54,561] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:12:54,583] {logging_mixin.py:115} INFO - [2022-09-12 12:12:54,582] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:12:54,610] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.132 seconds
+[2022-09-12 12:13:26,391] {processor.py:153} INFO - Started process (PID=32861) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:13:26,393] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:13:26,394] {logging_mixin.py:115} INFO - [2022-09-12 12:13:26,394] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:13:26,461] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:13:26,481] {logging_mixin.py:115} INFO - [2022-09-12 12:13:26,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:13:26,506] {logging_mixin.py:115} INFO - [2022-09-12 12:13:26,506] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:13:26,520] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.135 seconds
+[2022-09-12 12:13:58,334] {processor.py:153} INFO - Started process (PID=32901) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:13:58,336] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:13:58,337] {logging_mixin.py:115} INFO - [2022-09-12 12:13:58,336] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:13:58,390] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:13:58,408] {logging_mixin.py:115} INFO - [2022-09-12 12:13:58,407] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:13:58,428] {logging_mixin.py:115} INFO - [2022-09-12 12:13:58,428] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:13:58,441] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.112 seconds
+[2022-09-12 12:14:29,833] {processor.py:153} INFO - Started process (PID=32936) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:14:29,835] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:14:29,836] {logging_mixin.py:115} INFO - [2022-09-12 12:14:29,836] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:14:29,889] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:14:29,905] {logging_mixin.py:115} INFO - [2022-09-12 12:14:29,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:14:29,924] {logging_mixin.py:115} INFO - [2022-09-12 12:14:29,924] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:14:29,937] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.109 seconds
+[2022-09-12 12:15:00,726] {processor.py:153} INFO - Started process (PID=32968) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:15:00,727] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:15:00,728] {logging_mixin.py:115} INFO - [2022-09-12 12:15:00,728] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:15:00,773] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:15:00,788] {logging_mixin.py:115} INFO - [2022-09-12 12:15:00,788] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:15:00,806] {logging_mixin.py:115} INFO - [2022-09-12 12:15:00,806] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:15:00,821] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.098 seconds
+[2022-09-12 12:15:31,741] {processor.py:153} INFO - Started process (PID=33002) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:15:31,744] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:15:31,746] {logging_mixin.py:115} INFO - [2022-09-12 12:15:31,745] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:15:31,802] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:15:31,821] {logging_mixin.py:115} INFO - [2022-09-12 12:15:31,821] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:15:31,844] {logging_mixin.py:115} INFO - [2022-09-12 12:15:31,844] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:15:31,860] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.124 seconds
+[2022-09-12 12:16:02,778] {processor.py:153} INFO - Started process (PID=33036) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:16:02,779] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:16:02,780] {logging_mixin.py:115} INFO - [2022-09-12 12:16:02,779] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:16:02,825] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:16:02,840] {logging_mixin.py:115} INFO - [2022-09-12 12:16:02,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:16:02,859] {logging_mixin.py:115} INFO - [2022-09-12 12:16:02,858] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:16:02,873] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.098 seconds
+[2022-09-12 12:16:33,828] {processor.py:153} INFO - Started process (PID=33067) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:16:33,829] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:16:33,830] {logging_mixin.py:115} INFO - [2022-09-12 12:16:33,829] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:16:33,878] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:16:33,897] {logging_mixin.py:115} INFO - [2022-09-12 12:16:33,897] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:16:33,918] {logging_mixin.py:115} INFO - [2022-09-12 12:16:33,917] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:16:33,935] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.111 seconds
+[2022-09-12 12:17:05,439] {processor.py:153} INFO - Started process (PID=33102) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:17:05,440] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:17:05,441] {logging_mixin.py:115} INFO - [2022-09-12 12:17:05,441] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:17:05,496] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:17:05,516] {logging_mixin.py:115} INFO - [2022-09-12 12:17:05,516] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:17:05,535] {logging_mixin.py:115} INFO - [2022-09-12 12:17:05,535] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:17:05,549] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.114 seconds
+[2022-09-12 12:17:36,977] {processor.py:153} INFO - Started process (PID=33136) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:17:36,978] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:17:36,979] {logging_mixin.py:115} INFO - [2022-09-12 12:17:36,979] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:17:37,037] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:17:37,058] {logging_mixin.py:115} INFO - [2022-09-12 12:17:37,058] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:17:37,080] {logging_mixin.py:115} INFO - [2022-09-12 12:17:37,080] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:17:37,095] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.122 seconds
+[2022-09-12 12:18:09,222] {processor.py:153} INFO - Started process (PID=33168) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:18:09,224] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:18:09,229] {logging_mixin.py:115} INFO - [2022-09-12 12:18:09,229] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:18:09,283] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:18:09,301] {logging_mixin.py:115} INFO - [2022-09-12 12:18:09,301] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:18:09,323] {logging_mixin.py:115} INFO - [2022-09-12 12:18:09,323] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:18:09,340] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.123 seconds
+[2022-09-12 12:18:40,092] {processor.py:153} INFO - Started process (PID=33194) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:18:40,095] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:18:40,097] {logging_mixin.py:115} INFO - [2022-09-12 12:18:40,096] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:18:40,157] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:18:40,175] {logging_mixin.py:115} INFO - [2022-09-12 12:18:40,175] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:18:40,198] {logging_mixin.py:115} INFO - [2022-09-12 12:18:40,198] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:18:40,215] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.127 seconds
+[2022-09-12 12:19:11,324] {processor.py:153} INFO - Started process (PID=33230) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:19:11,326] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:19:11,327] {logging_mixin.py:115} INFO - [2022-09-12 12:19:11,327] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:19:11,378] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:19:11,394] {logging_mixin.py:115} INFO - [2022-09-12 12:19:11,393] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:19:11,413] {logging_mixin.py:115} INFO - [2022-09-12 12:19:11,413] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:19:11,428] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 12:19:43,483] {processor.py:153} INFO - Started process (PID=33263) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:19:43,484] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:19:43,485] {logging_mixin.py:115} INFO - [2022-09-12 12:19:43,485] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:19:43,536] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:19:43,553] {logging_mixin.py:115} INFO - [2022-09-12 12:19:43,552] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:19:43,574] {logging_mixin.py:115} INFO - [2022-09-12 12:19:43,573] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:19:43,590] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.111 seconds
+[2022-09-12 12:20:21,888] {processor.py:153} INFO - Started process (PID=33307) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:20:21,889] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:20:21,890] {logging_mixin.py:115} INFO - [2022-09-12 12:20:21,890] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:20:21,943] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:20:21,960] {logging_mixin.py:115} INFO - [2022-09-12 12:20:21,960] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:20:21,979] {logging_mixin.py:115} INFO - [2022-09-12 12:20:21,979] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:20:21,995] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.111 seconds
+[2022-09-12 12:20:52,668] {processor.py:153} INFO - Started process (PID=33341) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:20:52,671] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:20:52,672] {logging_mixin.py:115} INFO - [2022-09-12 12:20:52,672] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:20:52,722] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:20:52,739] {logging_mixin.py:115} INFO - [2022-09-12 12:20:52,739] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:20:52,758] {logging_mixin.py:115} INFO - [2022-09-12 12:20:52,758] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:20:52,773] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.108 seconds
+[2022-09-12 12:21:24,884] {processor.py:153} INFO - Started process (PID=33377) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:21:24,884] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:21:24,885] {logging_mixin.py:115} INFO - [2022-09-12 12:21:24,885] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:21:24,934] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:21:24,950] {logging_mixin.py:115} INFO - [2022-09-12 12:21:24,950] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:21:24,970] {logging_mixin.py:115} INFO - [2022-09-12 12:21:24,970] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:21:24,986] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 12:21:55,641] {processor.py:153} INFO - Started process (PID=33407) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:21:55,643] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:21:55,646] {logging_mixin.py:115} INFO - [2022-09-12 12:21:55,645] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:21:55,729] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:21:55,746] {logging_mixin.py:115} INFO - [2022-09-12 12:21:55,745] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:21:55,768] {logging_mixin.py:115} INFO - [2022-09-12 12:21:55,768] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:21:55,785] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.148 seconds
+[2022-09-12 12:22:36,570] {processor.py:153} INFO - Started process (PID=33448) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:22:36,572] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:22:36,573] {logging_mixin.py:115} INFO - [2022-09-12 12:22:36,573] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:22:36,630] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:22:36,648] {logging_mixin.py:115} INFO - [2022-09-12 12:22:36,648] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:22:36,669] {logging_mixin.py:115} INFO - [2022-09-12 12:22:36,668] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:22:36,686] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.120 seconds
+[2022-09-12 12:23:08,524] {processor.py:153} INFO - Started process (PID=33484) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:23:08,525] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:23:08,526] {logging_mixin.py:115} INFO - [2022-09-12 12:23:08,525] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:23:08,582] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:23:08,600] {logging_mixin.py:115} INFO - [2022-09-12 12:23:08,599] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:23:08,623] {logging_mixin.py:115} INFO - [2022-09-12 12:23:08,622] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:23:08,638] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.118 seconds
+[2022-09-12 12:23:40,361] {processor.py:153} INFO - Started process (PID=33516) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:23:40,362] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:23:40,363] {logging_mixin.py:115} INFO - [2022-09-12 12:23:40,362] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:23:40,412] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:23:40,429] {logging_mixin.py:115} INFO - [2022-09-12 12:23:40,428] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:23:40,448] {logging_mixin.py:115} INFO - [2022-09-12 12:23:40,448] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:23:40,462] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.105 seconds
+[2022-09-12 12:24:12,278] {processor.py:153} INFO - Started process (PID=33561) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:24:12,279] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:24:12,280] {logging_mixin.py:115} INFO - [2022-09-12 12:24:12,280] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:24:12,328] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:24:12,345] {logging_mixin.py:115} INFO - [2022-09-12 12:24:12,345] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:24:12,364] {logging_mixin.py:115} INFO - [2022-09-12 12:24:12,364] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:24:12,386] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.111 seconds
+[2022-09-12 12:24:44,185] {processor.py:153} INFO - Started process (PID=33592) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:24:44,187] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:24:44,189] {logging_mixin.py:115} INFO - [2022-09-12 12:24:44,188] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:24:44,243] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:24:44,261] {logging_mixin.py:115} INFO - [2022-09-12 12:24:44,260] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:24:44,281] {logging_mixin.py:115} INFO - [2022-09-12 12:24:44,281] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:24:44,297] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.116 seconds
+[2022-09-12 12:25:15,770] {processor.py:153} INFO - Started process (PID=33625) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:25:15,770] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:25:15,771] {logging_mixin.py:115} INFO - [2022-09-12 12:25:15,771] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:25:15,821] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:25:15,838] {logging_mixin.py:115} INFO - [2022-09-12 12:25:15,838] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:25:15,862] {logging_mixin.py:115} INFO - [2022-09-12 12:25:15,861] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:25:15,879] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.114 seconds
+[2022-09-12 12:25:47,684] {processor.py:153} INFO - Started process (PID=33662) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:25:47,685] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:25:47,686] {logging_mixin.py:115} INFO - [2022-09-12 12:25:47,686] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:25:47,734] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:25:47,754] {logging_mixin.py:115} INFO - [2022-09-12 12:25:47,754] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:25:47,774] {logging_mixin.py:115} INFO - [2022-09-12 12:25:47,773] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:25:47,791] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 12:26:19,743] {processor.py:153} INFO - Started process (PID=33694) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:26:19,743] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:26:19,744] {logging_mixin.py:115} INFO - [2022-09-12 12:26:19,744] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:26:19,793] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:26:19,809] {logging_mixin.py:115} INFO - [2022-09-12 12:26:19,809] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:26:19,828] {logging_mixin.py:115} INFO - [2022-09-12 12:26:19,828] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:26:19,847] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.109 seconds
+[2022-09-12 12:26:51,144] {processor.py:153} INFO - Started process (PID=33728) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:26:51,145] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:26:51,146] {logging_mixin.py:115} INFO - [2022-09-12 12:26:51,145] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:26:51,199] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:26:51,217] {logging_mixin.py:115} INFO - [2022-09-12 12:26:51,217] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:26:51,245] {logging_mixin.py:115} INFO - [2022-09-12 12:26:51,245] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:26:51,264] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.125 seconds
+[2022-09-12 12:27:22,284] {processor.py:153} INFO - Started process (PID=33759) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:27:22,287] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:27:22,289] {logging_mixin.py:115} INFO - [2022-09-12 12:27:22,289] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:27:22,341] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:27:22,358] {logging_mixin.py:115} INFO - [2022-09-12 12:27:22,358] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:27:22,382] {logging_mixin.py:115} INFO - [2022-09-12 12:27:22,381] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:27:22,403] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.123 seconds
+[2022-09-12 12:27:53,164] {processor.py:153} INFO - Started process (PID=33793) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:27:53,165] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:27:53,165] {logging_mixin.py:115} INFO - [2022-09-12 12:27:53,165] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:27:53,213] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:27:53,229] {logging_mixin.py:115} INFO - [2022-09-12 12:27:53,229] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:27:53,248] {logging_mixin.py:115} INFO - [2022-09-12 12:27:53,248] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:27:53,264] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.104 seconds
+[2022-09-12 12:28:24,200] {processor.py:153} INFO - Started process (PID=33826) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:28:24,200] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:28:24,201] {logging_mixin.py:115} INFO - [2022-09-12 12:28:24,201] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:28:24,255] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:28:24,273] {logging_mixin.py:115} INFO - [2022-09-12 12:28:24,273] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:28:24,294] {logging_mixin.py:115} INFO - [2022-09-12 12:28:24,293] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:28:24,309] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.113 seconds
+[2022-09-12 12:28:55,566] {processor.py:153} INFO - Started process (PID=33861) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:28:55,567] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:28:55,567] {logging_mixin.py:115} INFO - [2022-09-12 12:28:55,567] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:28:55,618] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:28:55,638] {logging_mixin.py:115} INFO - [2022-09-12 12:28:55,638] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:28:55,661] {logging_mixin.py:115} INFO - [2022-09-12 12:28:55,661] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:28:55,676] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.114 seconds
+[2022-09-12 12:29:26,988] {processor.py:153} INFO - Started process (PID=33892) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:29:26,989] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:29:26,990] {logging_mixin.py:115} INFO - [2022-09-12 12:29:26,990] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:29:27,043] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:29:27,060] {logging_mixin.py:115} INFO - [2022-09-12 12:29:27,060] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:29:27,082] {logging_mixin.py:115} INFO - [2022-09-12 12:29:27,082] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:29:27,102] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.117 seconds
+[2022-09-12 12:29:58,065] {processor.py:153} INFO - Started process (PID=33924) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:29:58,066] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:29:58,067] {logging_mixin.py:115} INFO - [2022-09-12 12:29:58,067] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:29:58,118] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:29:58,133] {logging_mixin.py:115} INFO - [2022-09-12 12:29:58,133] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:29:58,152] {logging_mixin.py:115} INFO - [2022-09-12 12:29:58,152] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:29:58,171] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 12:30:30,299] {processor.py:153} INFO - Started process (PID=33961) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:30:30,301] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:30:30,303] {logging_mixin.py:115} INFO - [2022-09-12 12:30:30,303] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:30:30,361] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:30:30,378] {logging_mixin.py:115} INFO - [2022-09-12 12:30:30,378] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:30:30,402] {logging_mixin.py:115} INFO - [2022-09-12 12:30:30,402] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:30:30,419] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.124 seconds
+[2022-09-12 12:31:02,288] {processor.py:153} INFO - Started process (PID=33994) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:31:02,289] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:31:02,290] {logging_mixin.py:115} INFO - [2022-09-12 12:31:02,289] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:31:02,344] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:31:02,360] {logging_mixin.py:115} INFO - [2022-09-12 12:31:02,360] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:31:02,379] {logging_mixin.py:115} INFO - [2022-09-12 12:31:02,379] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:31:02,395] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.111 seconds
+[2022-09-12 12:31:34,348] {processor.py:153} INFO - Started process (PID=34027) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:31:34,351] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:31:34,352] {logging_mixin.py:115} INFO - [2022-09-12 12:31:34,352] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:31:34,404] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:31:34,420] {logging_mixin.py:115} INFO - [2022-09-12 12:31:34,420] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:31:34,439] {logging_mixin.py:115} INFO - [2022-09-12 12:31:34,438] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:31:34,456] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.112 seconds
+[2022-09-12 12:32:05,851] {processor.py:153} INFO - Started process (PID=34059) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:32:05,852] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:32:05,853] {logging_mixin.py:115} INFO - [2022-09-12 12:32:05,853] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:32:05,914] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:32:05,931] {logging_mixin.py:115} INFO - [2022-09-12 12:32:05,931] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:32:05,953] {logging_mixin.py:115} INFO - [2022-09-12 12:32:05,953] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:32:05,967] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.121 seconds
+[2022-09-12 12:32:37,205] {processor.py:153} INFO - Started process (PID=34090) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:32:37,207] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:32:37,209] {logging_mixin.py:115} INFO - [2022-09-12 12:32:37,208] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:32:37,259] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:32:37,275] {logging_mixin.py:115} INFO - [2022-09-12 12:32:37,275] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:32:37,295] {logging_mixin.py:115} INFO - [2022-09-12 12:32:37,295] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:32:37,308] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.108 seconds
+[2022-09-12 12:33:08,199] {processor.py:153} INFO - Started process (PID=34122) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:33:08,200] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:33:08,201] {logging_mixin.py:115} INFO - [2022-09-12 12:33:08,200] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:33:08,260] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:33:08,278] {logging_mixin.py:115} INFO - [2022-09-12 12:33:08,278] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:33:08,300] {logging_mixin.py:115} INFO - [2022-09-12 12:33:08,300] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:33:08,315] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.121 seconds
+[2022-09-12 12:33:39,216] {processor.py:153} INFO - Started process (PID=34157) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:33:39,217] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:33:39,218] {logging_mixin.py:115} INFO - [2022-09-12 12:33:39,217] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:33:39,268] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:33:39,285] {logging_mixin.py:115} INFO - [2022-09-12 12:33:39,284] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:33:39,304] {logging_mixin.py:115} INFO - [2022-09-12 12:33:39,304] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:33:39,319] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.107 seconds
+[2022-09-12 12:34:11,514] {processor.py:153} INFO - Started process (PID=34194) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:34:11,516] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:34:11,517] {logging_mixin.py:115} INFO - [2022-09-12 12:34:11,516] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:34:11,575] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:34:11,591] {logging_mixin.py:115} INFO - [2022-09-12 12:34:11,591] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:34:11,611] {logging_mixin.py:115} INFO - [2022-09-12 12:34:11,611] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:34:11,626] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.116 seconds
+[2022-09-12 12:34:43,349] {processor.py:153} INFO - Started process (PID=34228) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:34:43,350] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:34:43,351] {logging_mixin.py:115} INFO - [2022-09-12 12:34:43,351] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:34:43,416] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:34:43,437] {logging_mixin.py:115} INFO - [2022-09-12 12:34:43,436] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:34:43,463] {logging_mixin.py:115} INFO - [2022-09-12 12:34:43,463] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:34:43,482] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.138 seconds
+[2022-09-12 12:35:18,817] {processor.py:153} INFO - Started process (PID=34264) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:35:18,819] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:35:18,820] {logging_mixin.py:115} INFO - [2022-09-12 12:35:18,820] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:35:18,887] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:35:18,906] {logging_mixin.py:115} INFO - [2022-09-12 12:35:18,906] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:35:18,928] {logging_mixin.py:115} INFO - [2022-09-12 12:35:18,928] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:35:18,944] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.131 seconds
+[2022-09-12 12:35:50,786] {processor.py:153} INFO - Started process (PID=34295) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:35:50,787] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:35:50,788] {logging_mixin.py:115} INFO - [2022-09-12 12:35:50,788] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:35:50,835] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:35:50,852] {logging_mixin.py:115} INFO - [2022-09-12 12:35:50,851] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:35:50,871] {logging_mixin.py:115} INFO - [2022-09-12 12:35:50,871] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:35:50,886] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.104 seconds
+[2022-09-12 12:36:23,213] {processor.py:153} INFO - Started process (PID=34328) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:36:23,214] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:36:23,216] {logging_mixin.py:115} INFO - [2022-09-12 12:36:23,216] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:36:23,272] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:36:23,294] {logging_mixin.py:115} INFO - [2022-09-12 12:36:23,294] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:36:23,319] {logging_mixin.py:115} INFO - [2022-09-12 12:36:23,319] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:36:23,338] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.130 seconds
+[2022-09-12 12:36:54,549] {processor.py:153} INFO - Started process (PID=34372) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:36:54,550] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:36:54,551] {logging_mixin.py:115} INFO - [2022-09-12 12:36:54,551] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:36:54,601] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:36:54,616] {logging_mixin.py:115} INFO - [2022-09-12 12:36:54,616] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:36:54,636] {logging_mixin.py:115} INFO - [2022-09-12 12:36:54,636] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:36:54,651] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 12:37:25,564] {processor.py:153} INFO - Started process (PID=34409) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:37:25,565] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:37:25,568] {logging_mixin.py:115} INFO - [2022-09-12 12:37:25,567] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:37:25,630] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:37:25,650] {logging_mixin.py:115} INFO - [2022-09-12 12:37:25,650] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:37:25,674] {logging_mixin.py:115} INFO - [2022-09-12 12:37:25,674] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:37:25,688] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.130 seconds
+[2022-09-12 12:38:01,672] {processor.py:153} INFO - Started process (PID=34448) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:38:01,674] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:38:01,675] {logging_mixin.py:115} INFO - [2022-09-12 12:38:01,675] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:38:01,733] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:38:01,749] {logging_mixin.py:115} INFO - [2022-09-12 12:38:01,749] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:38:01,773] {logging_mixin.py:115} INFO - [2022-09-12 12:38:01,773] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:38:01,787] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.119 seconds
+[2022-09-12 12:38:34,113] {processor.py:153} INFO - Started process (PID=34481) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:38:34,116] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:38:34,117] {logging_mixin.py:115} INFO - [2022-09-12 12:38:34,117] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:38:34,177] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:38:34,194] {logging_mixin.py:115} INFO - [2022-09-12 12:38:34,193] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:38:34,215] {logging_mixin.py:115} INFO - [2022-09-12 12:38:34,215] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:38:34,230] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.121 seconds
+[2022-09-12 12:39:06,205] {processor.py:153} INFO - Started process (PID=34513) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:39:06,206] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:39:06,207] {logging_mixin.py:115} INFO - [2022-09-12 12:39:06,207] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:39:06,261] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:39:06,277] {logging_mixin.py:115} INFO - [2022-09-12 12:39:06,277] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:39:06,298] {logging_mixin.py:115} INFO - [2022-09-12 12:39:06,298] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:39:06,310] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.109 seconds
+[2022-09-12 12:39:38,132] {processor.py:153} INFO - Started process (PID=34546) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:39:38,133] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:39:38,134] {logging_mixin.py:115} INFO - [2022-09-12 12:39:38,133] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:39:38,185] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:39:38,202] {logging_mixin.py:115} INFO - [2022-09-12 12:39:38,202] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:39:38,224] {logging_mixin.py:115} INFO - [2022-09-12 12:39:38,224] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:39:38,241] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.113 seconds
+[2022-09-12 12:40:10,005] {processor.py:153} INFO - Started process (PID=34579) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:40:10,005] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:40:10,006] {logging_mixin.py:115} INFO - [2022-09-12 12:40:10,006] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:40:10,058] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:40:10,076] {logging_mixin.py:115} INFO - [2022-09-12 12:40:10,076] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:40:10,097] {logging_mixin.py:115} INFO - [2022-09-12 12:40:10,097] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:40:10,112] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.112 seconds
+[2022-09-12 12:40:41,605] {processor.py:153} INFO - Started process (PID=34614) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:40:41,608] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:40:41,609] {logging_mixin.py:115} INFO - [2022-09-12 12:40:41,609] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:40:41,665] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:40:41,681] {logging_mixin.py:115} INFO - [2022-09-12 12:40:41,681] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:40:41,701] {logging_mixin.py:115} INFO - [2022-09-12 12:40:41,701] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:40:41,720] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.118 seconds
+[2022-09-12 12:41:12,624] {processor.py:153} INFO - Started process (PID=34650) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:41:12,625] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:41:12,626] {logging_mixin.py:115} INFO - [2022-09-12 12:41:12,626] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:41:12,673] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:41:12,689] {logging_mixin.py:115} INFO - [2022-09-12 12:41:12,689] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:41:12,709] {logging_mixin.py:115} INFO - [2022-09-12 12:41:12,709] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:41:12,722] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.101 seconds
+[2022-09-12 12:42:05,774] {processor.py:153} INFO - Started process (PID=34713) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:42:05,775] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:42:05,777] {logging_mixin.py:115} INFO - [2022-09-12 12:42:05,776] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:42:05,835] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:42:05,854] {logging_mixin.py:115} INFO - [2022-09-12 12:42:05,854] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:42:05,878] {logging_mixin.py:115} INFO - [2022-09-12 12:42:05,877] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:42:05,891] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.121 seconds
+[2022-09-12 12:42:36,925] {processor.py:153} INFO - Started process (PID=34759) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:42:36,926] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:42:36,927] {logging_mixin.py:115} INFO - [2022-09-12 12:42:36,927] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:42:36,974] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:42:36,990] {logging_mixin.py:115} INFO - [2022-09-12 12:42:36,990] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:42:37,011] {logging_mixin.py:115} INFO - [2022-09-12 12:42:37,010] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:42:37,024] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.102 seconds
+[2022-09-12 12:43:08,376] {processor.py:153} INFO - Started process (PID=34791) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:43:08,377] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:43:08,378] {logging_mixin.py:115} INFO - [2022-09-12 12:43:08,377] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:43:08,426] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:43:08,442] {logging_mixin.py:115} INFO - [2022-09-12 12:43:08,442] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:43:08,463] {logging_mixin.py:115} INFO - [2022-09-12 12:43:08,463] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:43:08,478] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.107 seconds
+[2022-09-12 12:43:39,940] {processor.py:153} INFO - Started process (PID=34822) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:43:39,941] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:43:39,942] {logging_mixin.py:115} INFO - [2022-09-12 12:43:39,942] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:43:39,989] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:43:40,005] {logging_mixin.py:115} INFO - [2022-09-12 12:43:40,005] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:43:40,026] {logging_mixin.py:115} INFO - [2022-09-12 12:43:40,025] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:43:40,043] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.107 seconds
+[2022-09-12 12:44:10,573] {processor.py:153} INFO - Started process (PID=34833) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:44:10,573] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:44:10,574] {logging_mixin.py:115} INFO - [2022-09-12 12:44:10,574] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:44:10,627] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:44:10,645] {logging_mixin.py:115} INFO - [2022-09-12 12:44:10,645] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:44:10,666] {logging_mixin.py:115} INFO - [2022-09-12 12:44:10,665] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:44:10,681] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.112 seconds
+[2022-09-12 12:44:41,332] {processor.py:153} INFO - Started process (PID=34838) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:44:41,333] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:44:41,334] {logging_mixin.py:115} INFO - [2022-09-12 12:44:41,334] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:44:41,387] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:44:41,404] {logging_mixin.py:115} INFO - [2022-09-12 12:44:41,404] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:44:41,424] {logging_mixin.py:115} INFO - [2022-09-12 12:44:41,424] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:44:41,437] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.109 seconds
+[2022-09-12 12:45:11,854] {processor.py:153} INFO - Started process (PID=34842) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:45:11,855] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:45:11,856] {logging_mixin.py:115} INFO - [2022-09-12 12:45:11,856] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:45:11,914] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:45:11,934] {logging_mixin.py:115} INFO - [2022-09-12 12:45:11,934] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:45:11,959] {logging_mixin.py:115} INFO - [2022-09-12 12:45:11,959] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:45:11,974] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.126 seconds
+[2022-09-12 12:45:31,756] {processor.py:153} INFO - Started process (PID=34864) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:45:31,758] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:45:31,759] {logging_mixin.py:115} INFO - [2022-09-12 12:45:31,759] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:45:31,809] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:45:31,825] {logging_mixin.py:115} INFO - [2022-09-12 12:45:31,824] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:45:31,844] {logging_mixin.py:115} INFO - [2022-09-12 12:45:31,844] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:45:31,860] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.108 seconds
+[2022-09-12 12:46:03,529] {processor.py:153} INFO - Started process (PID=34897) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:46:03,531] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:46:03,533] {logging_mixin.py:115} INFO - [2022-09-12 12:46:03,532] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:46:03,597] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:46:03,617] {logging_mixin.py:115} INFO - [2022-09-12 12:46:03,616] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:46:03,639] {logging_mixin.py:115} INFO - [2022-09-12 12:46:03,639] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:46:03,659] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.134 seconds
+[2022-09-12 12:46:35,894] {processor.py:153} INFO - Started process (PID=34926) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:46:35,897] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:46:35,899] {logging_mixin.py:115} INFO - [2022-09-12 12:46:35,898] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:46:35,956] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:46:35,974] {logging_mixin.py:115} INFO - [2022-09-12 12:46:35,973] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:46:35,995] {logging_mixin.py:115} INFO - [2022-09-12 12:46:35,995] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:46:36,012] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.122 seconds
+[2022-09-12 12:47:08,423] {processor.py:153} INFO - Started process (PID=34962) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:47:08,424] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:47:08,425] {logging_mixin.py:115} INFO - [2022-09-12 12:47:08,425] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:47:08,570] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:47:08,590] {logging_mixin.py:115} INFO - [2022-09-12 12:47:08,590] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:47:08,615] {logging_mixin.py:115} INFO - [2022-09-12 12:47:08,614] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:47:08,629] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.210 seconds
+[2022-09-12 12:47:41,084] {processor.py:153} INFO - Started process (PID=34996) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:47:41,085] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:47:41,086] {logging_mixin.py:115} INFO - [2022-09-12 12:47:41,085] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:47:41,146] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:47:41,165] {logging_mixin.py:115} INFO - [2022-09-12 12:47:41,165] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:47:41,186] {logging_mixin.py:115} INFO - [2022-09-12 12:47:41,185] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:47:41,201] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.122 seconds
+[2022-09-12 12:48:13,707] {processor.py:153} INFO - Started process (PID=35027) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:48:13,709] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:48:13,710] {logging_mixin.py:115} INFO - [2022-09-12 12:48:13,710] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:48:13,762] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:48:13,779] {logging_mixin.py:115} INFO - [2022-09-12 12:48:13,778] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:48:13,798] {logging_mixin.py:115} INFO - [2022-09-12 12:48:13,798] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:48:13,813] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 12:48:44,481] {processor.py:153} INFO - Started process (PID=35062) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:48:44,482] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:48:44,483] {logging_mixin.py:115} INFO - [2022-09-12 12:48:44,483] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:48:44,553] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:48:44,574] {logging_mixin.py:115} INFO - [2022-09-12 12:48:44,574] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:48:44,601] {logging_mixin.py:115} INFO - [2022-09-12 12:48:44,600] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:48:44,617] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.141 seconds
+[2022-09-12 12:49:16,412] {processor.py:153} INFO - Started process (PID=35182) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:49:16,414] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:49:16,416] {logging_mixin.py:115} INFO - [2022-09-12 12:49:16,415] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:49:16,479] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:49:16,496] {logging_mixin.py:115} INFO - [2022-09-12 12:49:16,496] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:49:16,520] {logging_mixin.py:115} INFO - [2022-09-12 12:49:16,519] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:49:16,540] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.132 seconds
+[2022-09-12 12:49:48,467] {processor.py:153} INFO - Started process (PID=35217) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:49:48,468] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:49:48,470] {logging_mixin.py:115} INFO - [2022-09-12 12:49:48,469] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:49:48,520] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:49:48,537] {logging_mixin.py:115} INFO - [2022-09-12 12:49:48,537] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:49:48,557] {logging_mixin.py:115} INFO - [2022-09-12 12:49:48,556] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:49:48,570] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.110 seconds
+[2022-09-12 12:50:20,211] {processor.py:153} INFO - Started process (PID=35253) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:50:20,212] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:50:20,213] {logging_mixin.py:115} INFO - [2022-09-12 12:50:20,213] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:50:20,262] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:50:20,281] {logging_mixin.py:115} INFO - [2022-09-12 12:50:20,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:50:20,301] {logging_mixin.py:115} INFO - [2022-09-12 12:50:20,301] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:50:20,312] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.105 seconds
+[2022-09-12 12:50:51,786] {processor.py:153} INFO - Started process (PID=35298) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:50:51,788] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:50:51,789] {logging_mixin.py:115} INFO - [2022-09-12 12:50:51,789] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:50:51,928] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:50:51,973] {logging_mixin.py:115} INFO - [2022-09-12 12:50:51,972] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:50:52,103] {logging_mixin.py:115} INFO - [2022-09-12 12:50:52,102] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:50:52,120] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.338 seconds
+[2022-09-12 12:51:23,890] {processor.py:153} INFO - Started process (PID=35344) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:51:23,893] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:51:23,894] {logging_mixin.py:115} INFO - [2022-09-12 12:51:23,894] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:51:23,944] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:51:23,961] {logging_mixin.py:115} INFO - [2022-09-12 12:51:23,961] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:51:23,980] {logging_mixin.py:115} INFO - [2022-09-12 12:51:23,980] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:51:23,992] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 12:51:55,611] {processor.py:153} INFO - Started process (PID=35377) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:51:55,613] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:51:55,615] {logging_mixin.py:115} INFO - [2022-09-12 12:51:55,614] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:51:55,705] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:51:55,759] {logging_mixin.py:115} INFO - [2022-09-12 12:51:55,758] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:51:55,836] {logging_mixin.py:115} INFO - [2022-09-12 12:51:55,836] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:51:55,854] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.249 seconds
+[2022-09-12 12:52:27,363] {processor.py:153} INFO - Started process (PID=35407) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:52:27,364] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:52:27,365] {logging_mixin.py:115} INFO - [2022-09-12 12:52:27,364] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:52:27,416] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:52:27,434] {logging_mixin.py:115} INFO - [2022-09-12 12:52:27,433] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:52:27,457] {logging_mixin.py:115} INFO - [2022-09-12 12:52:27,457] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:52:27,473] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.114 seconds
+[2022-09-12 12:52:59,941] {processor.py:153} INFO - Started process (PID=35437) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:52:59,944] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:52:59,945] {logging_mixin.py:115} INFO - [2022-09-12 12:52:59,945] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:53:00,003] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:53:00,020] {logging_mixin.py:115} INFO - [2022-09-12 12:53:00,020] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:53:00,040] {logging_mixin.py:115} INFO - [2022-09-12 12:53:00,039] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:53:00,054] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.116 seconds
+[2022-09-12 12:53:31,503] {processor.py:153} INFO - Started process (PID=35467) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:53:31,504] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:53:31,505] {logging_mixin.py:115} INFO - [2022-09-12 12:53:31,505] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:53:31,551] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:53:31,568] {logging_mixin.py:115} INFO - [2022-09-12 12:53:31,567] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:53:31,587] {logging_mixin.py:115} INFO - [2022-09-12 12:53:31,587] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:53:31,605] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 12:54:03,286] {processor.py:153} INFO - Started process (PID=35496) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:54:03,287] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:54:03,289] {logging_mixin.py:115} INFO - [2022-09-12 12:54:03,288] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:54:03,344] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:54:03,362] {logging_mixin.py:115} INFO - [2022-09-12 12:54:03,362] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:54:03,384] {logging_mixin.py:115} INFO - [2022-09-12 12:54:03,384] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:54:03,405] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.125 seconds
+[2022-09-12 12:54:34,012] {processor.py:153} INFO - Started process (PID=35526) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:54:34,013] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:54:34,014] {logging_mixin.py:115} INFO - [2022-09-12 12:54:34,013] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:54:34,063] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:54:34,081] {logging_mixin.py:115} INFO - [2022-09-12 12:54:34,081] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:54:34,100] {logging_mixin.py:115} INFO - [2022-09-12 12:54:34,100] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:54:34,114] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.106 seconds
+[2022-09-12 12:55:05,203] {processor.py:153} INFO - Started process (PID=35555) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:55:05,205] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:55:05,207] {logging_mixin.py:115} INFO - [2022-09-12 12:55:05,207] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:55:05,277] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:55:05,297] {logging_mixin.py:115} INFO - [2022-09-12 12:55:05,296] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:55:05,319] {logging_mixin.py:115} INFO - [2022-09-12 12:55:05,319] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:55:05,333] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.136 seconds
+[2022-09-12 12:55:36,402] {processor.py:153} INFO - Started process (PID=35587) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:55:36,403] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:55:36,404] {logging_mixin.py:115} INFO - [2022-09-12 12:55:36,403] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:55:36,452] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:55:36,469] {logging_mixin.py:115} INFO - [2022-09-12 12:55:36,468] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:55:36,488] {logging_mixin.py:115} INFO - [2022-09-12 12:55:36,488] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:55:36,501] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.102 seconds
+[2022-09-12 12:56:07,608] {processor.py:153} INFO - Started process (PID=35617) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:56:07,609] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:56:07,610] {logging_mixin.py:115} INFO - [2022-09-12 12:56:07,610] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:56:07,667] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:56:07,684] {logging_mixin.py:115} INFO - [2022-09-12 12:56:07,684] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:56:07,705] {logging_mixin.py:115} INFO - [2022-09-12 12:56:07,705] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:56:07,719] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.117 seconds
+[2022-09-12 12:56:39,084] {processor.py:153} INFO - Started process (PID=35653) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:56:39,085] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:56:39,087] {logging_mixin.py:115} INFO - [2022-09-12 12:56:39,086] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:56:39,154] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:56:39,180] {logging_mixin.py:115} INFO - [2022-09-12 12:56:39,180] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:56:39,209] {logging_mixin.py:115} INFO - [2022-09-12 12:56:39,209] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:56:39,226] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.147 seconds
+[2022-09-12 12:57:10,648] {processor.py:153} INFO - Started process (PID=35682) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:57:10,649] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:57:10,650] {logging_mixin.py:115} INFO - [2022-09-12 12:57:10,650] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:57:10,699] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:57:10,716] {logging_mixin.py:115} INFO - [2022-09-12 12:57:10,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:57:10,736] {logging_mixin.py:115} INFO - [2022-09-12 12:57:10,736] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:57:10,752] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.108 seconds
+[2022-09-12 12:57:41,851] {processor.py:153} INFO - Started process (PID=35712) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:57:41,852] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:57:41,853] {logging_mixin.py:115} INFO - [2022-09-12 12:57:41,853] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:57:41,903] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:57:41,920] {logging_mixin.py:115} INFO - [2022-09-12 12:57:41,920] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:57:41,940] {logging_mixin.py:115} INFO - [2022-09-12 12:57:41,939] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:57:41,953] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.105 seconds
+[2022-09-12 12:58:13,067] {processor.py:153} INFO - Started process (PID=35742) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:58:13,070] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:58:13,072] {logging_mixin.py:115} INFO - [2022-09-12 12:58:13,071] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:58:13,128] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:58:13,147] {logging_mixin.py:115} INFO - [2022-09-12 12:58:13,147] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:58:13,169] {logging_mixin.py:115} INFO - [2022-09-12 12:58:13,169] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:58:13,183] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.120 seconds
+[2022-09-12 12:58:44,405] {processor.py:153} INFO - Started process (PID=35772) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:58:44,406] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:58:44,407] {logging_mixin.py:115} INFO - [2022-09-12 12:58:44,406] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:58:44,464] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:58:44,481] {logging_mixin.py:115} INFO - [2022-09-12 12:58:44,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:58:44,500] {logging_mixin.py:115} INFO - [2022-09-12 12:58:44,500] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:58:44,514] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.113 seconds
+[2022-09-12 12:59:15,843] {processor.py:153} INFO - Started process (PID=35807) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:59:15,844] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:59:15,845] {logging_mixin.py:115} INFO - [2022-09-12 12:59:15,845] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:59:15,894] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:59:15,911] {logging_mixin.py:115} INFO - [2022-09-12 12:59:15,911] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:59:15,931] {logging_mixin.py:115} INFO - [2022-09-12 12:59:15,931] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:59:15,947] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.108 seconds
+[2022-09-12 12:59:47,042] {processor.py:153} INFO - Started process (PID=35836) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:59:47,042] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 12:59:47,043] {logging_mixin.py:115} INFO - [2022-09-12 12:59:47,043] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:59:47,096] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 12:59:47,113] {logging_mixin.py:115} INFO - [2022-09-12 12:59:47,113] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 12:59:47,132] {logging_mixin.py:115} INFO - [2022-09-12 12:59:47,132] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 12:59:47,150] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.112 seconds
+[2022-09-12 13:00:19,645] {processor.py:153} INFO - Started process (PID=35876) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 13:00:19,647] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 13:00:19,649] {logging_mixin.py:115} INFO - [2022-09-12 13:00:19,648] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 13:00:19,702] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 13:00:19,721] {logging_mixin.py:115} INFO - [2022-09-12 13:00:19,721] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 13:00:19,743] {logging_mixin.py:115} INFO - [2022-09-12 13:00:19,742] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 13:00:19,756] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.115 seconds
+[2022-09-12 13:00:52,193] {processor.py:153} INFO - Started process (PID=36025) to work on /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 13:00:52,194] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/example2.py for tasks to queue
+[2022-09-12 13:00:52,195] {logging_mixin.py:115} INFO - [2022-09-12 13:00:52,195] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 13:00:52,244] {processor.py:651} INFO - DAG(s) dict_keys(['example2']) retrieved from /Users/chunweichang/airflow/dags/example2.py
+[2022-09-12 13:00:52,261] {logging_mixin.py:115} INFO - [2022-09-12 13:00:52,261] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-12 13:00:52,281] {logging_mixin.py:115} INFO - [2022-09-12 13:00:52,280] {dag.py:2972} INFO - Setting next_dagrun for example2 to None, run_after=None
+[2022-09-12 13:00:52,297] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/example2.py took 0.108 seconds

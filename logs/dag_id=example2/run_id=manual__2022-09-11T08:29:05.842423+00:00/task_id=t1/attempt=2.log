@@ -1,0 +1,83 @@
+[2022-09-11 16:36:44,214] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example2.t1 manual__2022-09-11T08:29:05.842423+00:00 [queued]>
+[2022-09-11 16:36:44,222] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example2.t1 manual__2022-09-11T08:29:05.842423+00:00 [queued]>
+[2022-09-11 16:36:44,222] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-11 16:36:44,222] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-09-11 16:36:44,222] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-11 16:36:44,235] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): t1> on 2022-09-11 08:29:05.842423+00:00
+[2022-09-11 16:36:44,237] {standard_task_runner.py:52} INFO - Started process 29494 to run task
+[2022-09-11 16:36:44,243] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example2', 't1', 'manual__2022-09-11T08:29:05.842423+00:00', '--job-id', '77', '--raw', '--subdir', 'DAGS_FOLDER/example2.py', '--cfg-path', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpn7fwxczf', '--error-file', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmp4gu0547f']
+[2022-09-11 16:36:44,245] {standard_task_runner.py:80} INFO - Job 77: Subtask t1
+[2022-09-11 16:36:44,299] {task_command.py:371} INFO - Running <TaskInstance: example2.t1 manual__2022-09-11T08:29:05.842423+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2022-09-11 16:36:44,357] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example2
+AIRFLOW_CTX_TASK_ID=t1
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-11T08:29:05.842423+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-11T08:29:05.842423+00:00
+[2022-09-11 16:36:44,363] {base.py:68} INFO - Using connection ID 'mongo_default' for task execution.
+[2022-09-11 16:36:44,404] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/pool.py", line 1394, in _get_socket
+    sock_info = self.sockets.popleft()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/opt/anaconda3/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/chunweichang/airflow/tasks/f.py", line 6, in extract
+    documents = list(collections.find())
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/cursor.py", line 1238, in next
+    if len(self.__data) or self._refresh():
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/cursor.py", line 1155, in _refresh
+    self.__send_message(q)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/cursor.py", line 1045, in __send_message
+    operation, self._unpack_response, address=self.__address)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/mongo_client.py", line 1426, in _run_operation
+    address=address, retryable=isinstance(operation, message._Query))
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/mongo_client.py", line 1519, in _retryable_read
+    read_pref, server, session) as (
+  File "/opt/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/mongo_client.py", line 1371, in _secondaryok_for_server
+    with self._get_socket(server, session) as sock_info:
+  File "/opt/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/mongo_client.py", line 1309, in _get_socket
+    self.__all_credentials, handler=err_handler) as sock_info:
+  File "/opt/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/pool.py", line 1331, in get_socket
+    sock_info = self._get_socket(all_credentials)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/pool.py", line 1397, in _get_socket
+    sock_info = self.connect(all_credentials)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/pool.py", line 1297, in connect
+    sock_info.check_auth(all_credentials)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/pool.py", line 820, in check_auth
+    self.authenticate(credentials)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/pool.py", line 837, in authenticate
+    auth.authenticate(credentials, self)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/auth.py", line 672, in authenticate
+    auth_func(credentials, sock_info)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/auth.py", line 590, in _authenticate_default
+    return _authenticate_scram(credentials, sock_info, 'SCRAM-SHA-1')
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/auth.py", line 295, in _authenticate_scram
+    res = sock_info.command(source, cmd)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/pool.py", line 721, in command
+    exhaust_allowed=exhaust_allowed)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/network.py", line 163, in command
+    parse_write_concern_error=parse_write_concern_error)
+  File "/opt/anaconda3/lib/python3.7/site-packages/pymongo/helpers.py", line 167, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+[2022-09-11 16:36:44,420] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=example2, task_id=t1, execution_date=20220911T082905, start_date=20220911T083644, end_date=20220911T083644
+[2022-09-11 16:36:44,428] {standard_task_runner.py:97} ERROR - Failed to execute job 77 for task t1 (Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}; 29494)
+[2022-09-11 16:36:44,465] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-09-11 16:36:44,504] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

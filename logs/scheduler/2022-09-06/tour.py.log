@@ -1,0 +1,183 @@
+[2022-09-06 17:59:33,782] {processor.py:153} INFO - Started process (PID=3359) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:33,783] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:33,784] {logging_mixin.py:115} INFO - [2022-09-06 17:59:33,784] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:33,799] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:33,875] {logging_mixin.py:115} INFO - [2022-09-06 17:59:33,875] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:33,885] {logging_mixin.py:115} INFO - [2022-09-06 17:59:33,883] {dag.py:2439} INFO - Creating ORM DAG for tutorial
+[2022-09-06 17:59:33,903] {logging_mixin.py:115} INFO - [2022-09-06 17:59:33,903] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:33,924] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.148 seconds
+[2022-09-06 17:59:37,347] {processor.py:153} INFO - Started process (PID=3362) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:37,348] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:37,349] {logging_mixin.py:115} INFO - [2022-09-06 17:59:37,348] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:37,356] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:37,368] {logging_mixin.py:115} INFO - [2022-09-06 17:59:37,368] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:37,392] {logging_mixin.py:115} INFO - [2022-09-06 17:59:37,392] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:37,406] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.064 seconds
+[2022-09-06 17:59:39,650] {processor.py:153} INFO - Started process (PID=3364) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:39,651] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:39,653] {logging_mixin.py:115} INFO - [2022-09-06 17:59:39,652] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:39,661] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:39,671] {logging_mixin.py:115} INFO - [2022-09-06 17:59:39,671] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:39,695] {logging_mixin.py:115} INFO - [2022-09-06 17:59:39,694] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:39,709] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.063 seconds
+[2022-09-06 17:59:41,945] {processor.py:153} INFO - Started process (PID=3366) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:41,946] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:41,947] {logging_mixin.py:115} INFO - [2022-09-06 17:59:41,946] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:41,956] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:41,967] {logging_mixin.py:115} INFO - [2022-09-06 17:59:41,966] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:41,990] {logging_mixin.py:115} INFO - [2022-09-06 17:59:41,990] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:42,003] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.063 seconds
+[2022-09-06 17:59:43,645] {processor.py:153} INFO - Started process (PID=3368) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:43,645] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:43,646] {logging_mixin.py:115} INFO - [2022-09-06 17:59:43,646] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:43,654] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:43,665] {logging_mixin.py:115} INFO - [2022-09-06 17:59:43,665] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:43,689] {logging_mixin.py:115} INFO - [2022-09-06 17:59:43,689] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:43,704] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.065 seconds
+[2022-09-06 17:59:45,958] {processor.py:153} INFO - Started process (PID=3370) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:45,959] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:45,960] {logging_mixin.py:115} INFO - [2022-09-06 17:59:45,959] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:45,969] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:45,980] {logging_mixin.py:115} INFO - [2022-09-06 17:59:45,979] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:46,003] {logging_mixin.py:115} INFO - [2022-09-06 17:59:46,003] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:46,018] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.067 seconds
+[2022-09-06 17:59:48,240] {processor.py:153} INFO - Started process (PID=3372) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:48,241] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:48,242] {logging_mixin.py:115} INFO - [2022-09-06 17:59:48,241] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:48,250] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:48,260] {logging_mixin.py:115} INFO - [2022-09-06 17:59:48,260] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:48,283] {logging_mixin.py:115} INFO - [2022-09-06 17:59:48,282] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:48,297] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.062 seconds
+[2022-09-06 17:59:48,811] {processor.py:153} INFO - Started process (PID=3374) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:48,811] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:48,812] {logging_mixin.py:115} INFO - [2022-09-06 17:59:48,812] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:48,820] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:48,830] {logging_mixin.py:115} INFO - [2022-09-06 17:59:48,829] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:48,852] {logging_mixin.py:115} INFO - [2022-09-06 17:59:48,851] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:48,868] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.061 seconds
+[2022-09-06 17:59:51,112] {processor.py:153} INFO - Started process (PID=3376) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:51,112] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:51,113] {logging_mixin.py:115} INFO - [2022-09-06 17:59:51,113] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:51,123] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:51,135] {logging_mixin.py:115} INFO - [2022-09-06 17:59:51,134] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:51,158] {logging_mixin.py:115} INFO - [2022-09-06 17:59:51,157] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:51,176] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.069 seconds
+[2022-09-06 17:59:53,405] {processor.py:153} INFO - Started process (PID=3378) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:53,406] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:53,406] {logging_mixin.py:115} INFO - [2022-09-06 17:59:53,406] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:53,414] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:53,424] {logging_mixin.py:115} INFO - [2022-09-06 17:59:53,424] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:53,448] {logging_mixin.py:115} INFO - [2022-09-06 17:59:53,448] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:53,464] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.064 seconds
+[2022-09-06 17:59:55,089] {processor.py:153} INFO - Started process (PID=3380) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:55,090] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:55,091] {logging_mixin.py:115} INFO - [2022-09-06 17:59:55,091] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:55,099] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:55,111] {logging_mixin.py:115} INFO - [2022-09-06 17:59:55,111] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:55,136] {logging_mixin.py:115} INFO - [2022-09-06 17:59:55,136] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:55,155] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.071 seconds
+[2022-09-06 17:59:57,479] {processor.py:153} INFO - Started process (PID=3382) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:57,480] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:57,480] {logging_mixin.py:115} INFO - [2022-09-06 17:59:57,480] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:57,489] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:57,500] {logging_mixin.py:115} INFO - [2022-09-06 17:59:57,500] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:57,526] {logging_mixin.py:115} INFO - [2022-09-06 17:59:57,526] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:57,539] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.065 seconds
+[2022-09-06 17:59:59,090] {processor.py:153} INFO - Started process (PID=3384) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:59,090] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 17:59:59,091] {logging_mixin.py:115} INFO - [2022-09-06 17:59:59,091] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:59,099] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 17:59:59,109] {logging_mixin.py:115} INFO - [2022-09-06 17:59:59,109] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 17:59:59,130] {logging_mixin.py:115} INFO - [2022-09-06 17:59:59,130] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 17:59:59,145] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.061 seconds
+[2022-09-06 18:00:01,387] {processor.py:153} INFO - Started process (PID=3386) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:01,388] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:01,389] {logging_mixin.py:115} INFO - [2022-09-06 18:00:01,388] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:01,396] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:01,407] {logging_mixin.py:115} INFO - [2022-09-06 18:00:01,407] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:01,429] {logging_mixin.py:115} INFO - [2022-09-06 18:00:01,429] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:01,444] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.060 seconds
+[2022-09-06 18:00:03,677] {processor.py:153} INFO - Started process (PID=3388) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:03,678] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:03,678] {logging_mixin.py:115} INFO - [2022-09-06 18:00:03,678] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:03,686] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:03,699] {logging_mixin.py:115} INFO - [2022-09-06 18:00:03,699] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:03,722] {logging_mixin.py:115} INFO - [2022-09-06 18:00:03,722] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:03,735] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.062 seconds
+[2022-09-06 18:00:04,243] {processor.py:153} INFO - Started process (PID=3390) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:04,243] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:04,244] {logging_mixin.py:115} INFO - [2022-09-06 18:00:04,244] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:04,252] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:04,268] {logging_mixin.py:115} INFO - [2022-09-06 18:00:04,268] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:04,289] {logging_mixin.py:115} INFO - [2022-09-06 18:00:04,289] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:04,302] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.063 seconds
+[2022-09-06 18:00:06,545] {processor.py:153} INFO - Started process (PID=3392) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:06,546] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:06,547] {logging_mixin.py:115} INFO - [2022-09-06 18:00:06,547] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:06,554] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:06,571] {logging_mixin.py:115} INFO - [2022-09-06 18:00:06,571] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:06,592] {logging_mixin.py:115} INFO - [2022-09-06 18:00:06,592] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:06,605] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.063 seconds
+[2022-09-06 18:00:09,400] {processor.py:153} INFO - Started process (PID=3395) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:09,401] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:09,402] {logging_mixin.py:115} INFO - [2022-09-06 18:00:09,402] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:09,409] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:09,426] {logging_mixin.py:115} INFO - [2022-09-06 18:00:09,426] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:09,447] {logging_mixin.py:115} INFO - [2022-09-06 18:00:09,446] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:09,464] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.068 seconds
+[2022-09-06 18:00:11,704] {processor.py:153} INFO - Started process (PID=3397) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:11,705] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:11,706] {logging_mixin.py:115} INFO - [2022-09-06 18:00:11,706] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:11,714] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:11,731] {logging_mixin.py:115} INFO - [2022-09-06 18:00:11,731] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:11,752] {logging_mixin.py:115} INFO - [2022-09-06 18:00:11,752] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:11,768] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.067 seconds
+[2022-09-06 18:00:13,989] {processor.py:153} INFO - Started process (PID=3399) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:13,989] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:13,990] {logging_mixin.py:115} INFO - [2022-09-06 18:00:13,990] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:13,998] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:14,017] {logging_mixin.py:115} INFO - [2022-09-06 18:00:14,016] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:14,043] {logging_mixin.py:115} INFO - [2022-09-06 18:00:14,043] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:14,057] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.073 seconds
+[2022-09-06 18:00:14,555] {processor.py:153} INFO - Started process (PID=3401) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:14,557] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:14,558] {logging_mixin.py:115} INFO - [2022-09-06 18:00:14,557] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:14,566] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:14,585] {logging_mixin.py:115} INFO - [2022-09-06 18:00:14,584] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:14,608] {logging_mixin.py:115} INFO - [2022-09-06 18:00:14,608] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:14,623] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.072 seconds
+[2022-09-06 18:00:16,854] {processor.py:153} INFO - Started process (PID=3403) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:16,854] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:16,855] {logging_mixin.py:115} INFO - [2022-09-06 18:00:16,855] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:16,863] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:16,926] {logging_mixin.py:115} INFO - [2022-09-06 18:00:16,925] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:16,973] {logging_mixin.py:115} INFO - [2022-09-06 18:00:16,973] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:16,990] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.140 seconds
+[2022-09-06 18:00:18,829] {processor.py:153} INFO - Started process (PID=3405) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:18,830] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:18,832] {logging_mixin.py:115} INFO - [2022-09-06 18:00:18,831] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:18,840] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:18,865] {logging_mixin.py:115} INFO - [2022-09-06 18:00:18,864] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:18,888] {logging_mixin.py:115} INFO - [2022-09-06 18:00:18,888] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:18,901] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.076 seconds
+[2022-09-06 18:00:20,882] {processor.py:153} INFO - Started process (PID=3409) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:20,883] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:20,886] {logging_mixin.py:115} INFO - [2022-09-06 18:00:20,885] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:20,898] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:20,915] {logging_mixin.py:115} INFO - [2022-09-06 18:00:20,915] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:20,936] {logging_mixin.py:115} INFO - [2022-09-06 18:00:20,936] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:20,949] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.074 seconds
+[2022-09-06 18:00:23,170] {processor.py:153} INFO - Started process (PID=3411) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:23,171] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:23,171] {logging_mixin.py:115} INFO - [2022-09-06 18:00:23,171] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:23,179] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:23,195] {logging_mixin.py:115} INFO - [2022-09-06 18:00:23,195] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:23,216] {logging_mixin.py:115} INFO - [2022-09-06 18:00:23,216] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:23,230] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.064 seconds
+[2022-09-06 18:00:24,871] {processor.py:153} INFO - Started process (PID=3413) to work on /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:24,872] {processor.py:641} INFO - Processing file /Users/chunweichang/airflow/dags/tour.py for tasks to queue
+[2022-09-06 18:00:24,872] {logging_mixin.py:115} INFO - [2022-09-06 18:00:24,872] {dagbag.py:508} INFO - Filling up the DagBag from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:24,880] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chunweichang/airflow/dags/tour.py
+[2022-09-06 18:00:24,898] {logging_mixin.py:115} INFO - [2022-09-06 18:00:24,898] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-09-06 18:00:24,919] {logging_mixin.py:115} INFO - [2022-09-06 18:00:24,919] {dag.py:2972} INFO - Setting next_dagrun for tutorial to 2022-09-05T00:00:00+00:00, run_after=2022-09-06T00:00:00+00:00
+[2022-09-06 18:00:24,935] {processor.py:161} INFO - Processing /Users/chunweichang/airflow/dags/tour.py took 0.068 seconds

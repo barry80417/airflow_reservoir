@@ -1,0 +1,24 @@
+[2022-09-11 16:41:52,903] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example2.t2 manual__2022-09-11T08:36:40.501171+00:00 [queued]>
+[2022-09-11 16:41:52,910] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example2.t2 manual__2022-09-11T08:36:40.501171+00:00 [queued]>
+[2022-09-11 16:41:52,910] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-11 16:41:52,910] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-09-11 16:41:52,911] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-11 16:41:52,924] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): t2> on 2022-09-11 08:36:40.501171+00:00
+[2022-09-11 16:41:52,927] {standard_task_runner.py:52} INFO - Started process 29567 to run task
+[2022-09-11 16:41:52,934] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example2', 't2', 'manual__2022-09-11T08:36:40.501171+00:00', '--job-id', '84', '--raw', '--subdir', 'DAGS_FOLDER/example2.py', '--cfg-path', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpj4ssmu6c', '--error-file', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpya8a0wcc']
+[2022-09-11 16:41:52,936] {standard_task_runner.py:80} INFO - Job 84: Subtask t2
+[2022-09-11 16:41:52,984] {task_command.py:371} INFO - Running <TaskInstance: example2.t2 manual__2022-09-11T08:36:40.501171+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2022-09-11 16:41:53,044] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example2
+AIRFLOW_CTX_TASK_ID=t2
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-11T08:36:40.501171+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-11T08:36:40.501171+00:00
+[2022-09-11 16:41:53,051] {python.py:173} INFO - Done. Returned value was: [{'mid': '62fb11a7ae0ecc8c1701f83d', 'name': 'Tom'}, {'mid': '62fb11a7ae0ecc8c1701f83e', 'name': 'Mark'}, {'mid': '62fb11a7ae0ecc8c1701f83f', 'name': 'Mary'}, {'mid': '62fb27c4ae0ecc8c1701f840', 'name': 'Tom'}, {'mid': '62fb27c4ae0ecc8c1701f841', 'name': 'Mark'}, {'mid': '62fb27c4ae0ecc8c1701f842', 'name': 'Mary'}]
+[2022-09-11 16:41:53,078] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=example2, task_id=t2, execution_date=20220911T083640, start_date=20220911T084152, end_date=20220911T084153
+[2022-09-11 16:41:53,116] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-09-11 16:41:53,145] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

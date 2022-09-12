@@ -1,0 +1,33 @@
+[2022-09-11 00:26:33,309] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t1 manual__2022-09-10T16:15:51.593741+00:00 [queued]>
+[2022-09-11 00:26:33,316] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t1 manual__2022-09-10T16:15:51.593741+00:00 [queued]>
+[2022-09-11 00:26:33,316] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-11 00:26:33,316] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-09-11 00:26:33,317] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-11 00:26:33,329] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): t1> on 2022-09-10 16:15:51.593741+00:00
+[2022-09-11 00:26:33,331] {standard_task_runner.py:52} INFO - Started process 28574 to run task
+[2022-09-11 00:26:33,337] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example3', 't1', 'manual__2022-09-10T16:15:51.593741+00:00', '--job-id', '72', '--raw', '--subdir', 'DAGS_FOLDER/example3.py', '--cfg-path', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmps1u35q8a', '--error-file', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpgaezfodv']
+[2022-09-11 00:26:33,339] {standard_task_runner.py:80} INFO - Job 72: Subtask t1
+[2022-09-11 00:26:33,395] {task_command.py:371} INFO - Running <TaskInstance: example3.t1 manual__2022-09-10T16:15:51.593741+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2022-09-11 00:26:33,451] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example3
+AIRFLOW_CTX_TASK_ID=t1
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-10T16:15:51.593741+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-10T16:15:51.593741+00:00
+[2022-09-11 00:26:33,452] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/opt/anaconda3/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/chunweichang/airflow/tasks/test.py", line 12, in extract
+    print(url)
+NameError: name 'url' is not defined
+[2022-09-11 00:26:33,459] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=example3, task_id=t1, execution_date=20220910T161551, start_date=20220910T162633, end_date=20220910T162633
+[2022-09-11 00:26:33,466] {standard_task_runner.py:97} ERROR - Failed to execute job 72 for task t1 (name 'url' is not defined; 28574)
+[2022-09-11 00:26:33,476] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-09-11 00:26:33,498] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

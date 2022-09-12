@@ -1,0 +1,24 @@
+[2022-09-12 12:22:40,435] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t3 manual__2022-09-12T04:17:19.875846+00:00 [queued]>
+[2022-09-12 12:22:40,443] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: example3.t3 manual__2022-09-12T04:17:19.875846+00:00 [queued]>
+[2022-09-12 12:22:40,443] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-12 12:22:40,443] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-09-12 12:22:40,443] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-12 12:22:40,456] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): t3> on 2022-09-12 04:17:19.875846+00:00
+[2022-09-12 12:22:40,458] {standard_task_runner.py:52} INFO - Started process 33452 to run task
+[2022-09-12 12:22:40,463] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example3', 't3', 'manual__2022-09-12T04:17:19.875846+00:00', '--job-id', '103', '--raw', '--subdir', 'DAGS_FOLDER/example3.py', '--cfg-path', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpvv6qhti9', '--error-file', '/var/folders/ll/lb_b4vvx7cgfp2wpfsv4w6zm0000gn/T/tmpql40sp39']
+[2022-09-12 12:22:40,464] {standard_task_runner.py:80} INFO - Job 103: Subtask t3
+[2022-09-12 12:22:40,521] {task_command.py:371} INFO - Running <TaskInstance: example3.t3 manual__2022-09-12T04:17:19.875846+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2022-09-12 12:22:40,583] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example3
+AIRFLOW_CTX_TASK_ID=t3
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-12T04:17:19.875846+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-09-12T04:17:19.875846+00:00
+[2022-09-12 12:22:40,591] {python.py:173} INFO - Done. Returned value was: []
+[2022-09-12 12:22:40,608] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=example3, task_id=t3, execution_date=20220912T041719, start_date=20220912T042240, end_date=20220912T042240
+[2022-09-12 12:22:40,650] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-09-12 12:22:40,677] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
